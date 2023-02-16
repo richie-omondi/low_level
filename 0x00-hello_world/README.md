@@ -2,7 +2,7 @@
 
 This folder contains Bash scripts used to execute software written in C such as:
 
-## Tasks :page_with_curl:
+## Scripts :page_with_curl:
 
 * **0. Preprocessor**
   * [0-preprocessor](./0-preprocessor): Bash script that runs a C file saved in the
