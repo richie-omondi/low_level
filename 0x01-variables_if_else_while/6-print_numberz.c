@@ -2,17 +2,20 @@
 #include <unistd.h>
 /**
  * main - Entry point for program execution
- * Description: Prints all single digit numbers of base10 using putchar
+ * Description: Prints all single digit numbers of base10 using putchar.
+ * The putchar function converts the integer to a character by adding the ASCII value of '0'
+ * Which is 48 
  * Return: Always 0 (success)
  */
 int main(void)
 {
-	int a;
+	int i = 0;
 
-	for (a = 0; a < 10; a++)
-	{
-		putchar(a + '0');
-	}
-	putchar('\n');
-	return (0);
+	while (i < 10)
+    	{
+        	putchar(i + '0');
+        	putchar('\n');
+        	i++;
+    	}
+    	return (0);
 }
