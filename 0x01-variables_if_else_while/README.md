@@ -1,4 +1,4 @@
-# C - Variables, if, else, while
+# C - Variables, Relational, Boolean and Logical Operators, if-else, while
 
 This repo contains C software written to implement the following:
 
