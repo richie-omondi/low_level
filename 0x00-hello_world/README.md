@@ -16,7 +16,7 @@ This folder contains Bash scripts used to execute software written in C such as:
 
 * **2. Assembler**
   * [2-assembler](./2-assembler): Bash script that generates the assembly code of a
-  C code saved in the variable `$CFILE`; saves the result in an output file of the
+  C file saved in the variable `$CFILE`; saves the result in an output file of the
   same name but with a `.s` extension.
     * Example: If the C file is `main.c`, the result is `main.s`.
 
