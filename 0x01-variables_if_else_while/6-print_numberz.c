@@ -4,8 +4,8 @@
  * main - Entry point for program execution
  * Description: Prints all single digit numbers of base10 using putchar
  * The putchar function converts the integer to a character 
- * By adding the ASCII value of '0'
- * Which is 48 
+ * by adding the ASCII value of '0'
+ * which is 48 
  * Return: Always 0 (success)
  */
 int main(void)
