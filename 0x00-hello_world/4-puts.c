@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point for the program
- * Description: Prints "\"Programming is like building a multilingual puzzle"
+ * Description: Prints "\"Programming is like building a multilingual puzzle" using puts
  * Return: 0. Program execution is a success
  */
 
