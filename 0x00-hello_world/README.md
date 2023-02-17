@@ -1,6 +1,6 @@
 # 0x00. C - Hello, World
 
-This folder contains Bash scripts used to execute software written in C such as:
+This folder contains Bash scripts and C code written to implement the following:
 
 ## Scripts :page_with_curl:
 
