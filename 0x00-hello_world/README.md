@@ -37,7 +37,7 @@ This folder contains Bash scripts used to execute software written in C such as:
   it is compiled and run on.
 
 * **7. Intel**
-  * [100-intel](./100-intel): Script that generates the assembly code in Intel syntax of a
+  * [100-intel](./100-intel): Bash script that generates assembly code in Intel syntax of a
   C file saved in the variable $CFILE; saves the result in an output file of the same name
   but with a `.s` extension.
     * Example: If the C file is `main.c`, the output is `main.s`.
