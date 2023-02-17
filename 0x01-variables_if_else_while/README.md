@@ -1,6 +1,6 @@
 # C - Variables, if, else, while
 
-This repo contains C software written to implemenet the following:
+This repo contains C software written to implement the following:
 
 ## Tasks :page_with_curl:
 
