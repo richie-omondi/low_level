@@ -2,17 +2,17 @@
 
 /**
  * add - adds two integers
- * @a: integer 1
- * @b: integer 2
+ * @n1: integer 1
+ * @n2: integer 2
  * Description: takes two integers, returns sum
  * Return: sum
  */
 
-int add(int a, int b)
+int add(int n1, int n2)
 {
 	int sum;
 
-	sum = a + b;
+	sum = n1 + n2;
 
 	return (sum);
 }
