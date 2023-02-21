@@ -8,7 +8,7 @@ This repo contains C software written to implement different functions. There is
 
 ## Header File :file_folder:
 
-* [school.h](./school.h): Header file containing prototypes for all
+* [main.h](./main.h): Header file containing prototypes for all
 functions written in the project.
 
 | File                     | Prototype                        |
