@@ -1,4 +1,4 @@
-#include "school.h"
+#include "main.h"
 /**
  * main - Entry point for program execution
  * Description: prints '_putchard \n'
