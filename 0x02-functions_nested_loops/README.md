@@ -1,7 +1,6 @@
 # C - Functions, nested loops
 
-In this project, I learned about nested loops, header files, and variable scope
-in C while practicing declaring and defining my own functions.
+This repo contains C software written to implement different functions. There is no use of a standard library.
 
 ## Helper File :raised_hands:
 
@@ -9,7 +8,7 @@ in C while practicing declaring and defining my own functions.
 
 ## Header File :file_folder:
 
-* [school.h](./holberton.h): Header file containing prototypes for all
+* [school.h](./school.h): Header file containing prototypes for all
 functions written in the project.
 
 | File                     | Prototype                        |
@@ -30,7 +29,7 @@ functions written in the project.
 ## Tasks :page_with_curl:
 
 * **0. _putchar**
-  * [0-holberton.c](./0-holberton.c): C program that prints `Holberton`, followed by a
+  * [0-putchar.c](./0-holberton.c): C program that prints `Holberton`, followed by a
   new line. Returns 0.
 
 * **1. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game**
