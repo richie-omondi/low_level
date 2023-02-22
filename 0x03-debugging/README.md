@@ -10,11 +10,8 @@ This repo contains tasks undertaken to debug and learn how to debug code written
 * **1. Like, comment, subscribe**
   * [1-main.c](./1-main.c): Comment out (don’t delete) the part of the code that is causing the output to go into an infinite loop.
 
-* **2. Assembler**
-  * [2-assembler](./2-assembler): Bash script that generates the assembly code of a
-  C file saved in the variable `$CFILE`; saves the result in an output file of the
-  same name but with a `.s` extension.
-    * Example: If the C file is `main.c`, the result is `main.s`.
+* **2. 0 > 972?**
+  * [2-largest_number.c](./2-largest_number.c): This program prints the largest of three numbers
 
 * **3. Name**
   * [3-name](./3-name): Bash Script that compiles a C file saved in the variable
