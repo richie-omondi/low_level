@@ -2,7 +2,7 @@
 
 This repo contains tasks undertaken to debug and learn how to debug code written in C
 
-## Taska :page_with_curl:
+## Tasks :page_with_curl:
 
 * **0. Multiple mains**
   * [0-main.c](./0-main.c): Based on the `main.c` file above, create a file named `0-main.c`. This file must test that the function `positive_or_negative()` gives the correct output when given a case of `0`. The function `positive_or_negative` iss defined [here](0x01-variables_if_else_while/0-positive_or_negative.c)
