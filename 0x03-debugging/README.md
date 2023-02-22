@@ -7,11 +7,8 @@ This repo contains tasks undertaken to debug and learn how to debug code written
 * **0. Multiple mains**
   * [0-main.c](./0-main.c): Based on the `main.c` file above, create a file named `0-main.c`. This file must test that the function `positive_or_negative()` gives the correct output when given a case of `0`. The function `positive_or_negative` iss defined [here](0x01-variables_if_else_while/0-positive_or_negative.c)
 
-* **1. Compiler**
-  * [1-compiler](./1-compiler): Bash script that compiles a C file saved in the
-  variable `$CFILE` that does not link; saves the result in an output file of the
-  same name but with a `.o` extension.
-    * Example: If the C file is `main.c`, the output is `main.o`.
+* **1. Like, comment, subscribe**
+  * [1-main.c](./1-main.c): Copy this main file. Comment out (don’t delete it!) the part of the code that is causing the output to go into an infinite loop.
 
 * **2. Assembler**
   * [2-assembler](./2-assembler): Bash script that generates the assembly code of a
