@@ -46,8 +46,8 @@ functions written in the project.
 * **5. Numbers constitute the only universal language**
   * [5-more_numbers.c](./5-more_numbers.c): C function that prints 10 times the numbers, from `0` to `14`, followed by a new line.
 
-* **6. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you**
-  * [6-abs.c](./6-abs.c): C function that returns the absolute value of an integer.
+* **6. The shortest distance between two points is a straight line**
+  * [6-print_line.c](./6-print_line.c): C function that prints a straight line.
 
 * **7. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important**
   * [7-print_last_digit.c](./7-print_last_digit.c): C function that prints the last
