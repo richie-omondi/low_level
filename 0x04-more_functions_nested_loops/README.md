@@ -44,11 +44,8 @@ functions written in the project.
   * [4-isalpha.c](./4-isalpha.c): C function that checks for alphabetic characters.
   Returns `1` if the character is a letter, `0` otherwise.
 
-* **5. Sign**
-  * [5-sign.c](./5-sign.c): C function that prints the sign of a number. Returns:
-    * `1` and prints `+` if the number is greater than zero.
-    * `0` and prints `0` if the number is zero.
-    * `-1` and prints `-` if the number is less than zero.
+* **5. Numbers constitute the only universal language**
+  * [5-sign.c](./5-sign.c): C function that prints 10 times the numbers, from 0 to 14, followed by a new line.
 
 * **6. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you**
   * [6-abs.c](./6-abs.c): C function that returns the absolute value of an integer.
