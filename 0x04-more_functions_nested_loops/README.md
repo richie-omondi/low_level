@@ -52,9 +52,8 @@ functions written in the project.
 * **7.  I feel like I am diagonally parked in a parallel universe**
   * [7-print_diagonal.c](./7-print_diagonal.c): C function that prints a diagonal line on the terminal.
 
-* **8. I'm federal agent Jack Bauer, and today is the longest day of my life**
-  * [8-24_hours.c](./8-24_hours.c): C function that prints every minute of the day
-  of Jack Bauer, starting from 00:00 to 23:59.
+* **8. You are so much sunshine in every square inch**
+  * [8-print_square.c](./8-print_square.c): C function that prints a square of hashes on the terminal.
 
 * **9. Learn your times table**
   * [9-times_table.c](./9-times_table.c): C function that prints the 9 times table,
