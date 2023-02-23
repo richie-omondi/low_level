@@ -49,9 +49,8 @@ functions written in the project.
 * **6. The shortest distance between two points is a straight line**
   * [6-print_line.c](./6-print_line.c): C function that prints a straight line.
 
-* **7. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important**
-  * [7-print_last_digit.c](./7-print_last_digit.c): C function that prints the last
-  digit of a number. Returns the value of the last digit.
+* **7.  I feel like I am diagonally parked in a parallel universe**
+  * [7-print_diagonal.c](./7-print_diagonal.c): C function that prints a diagonal line on the terminal.
 
 * **8. I'm federal agent Jack Bauer, and today is the longest day of my life**
   * [8-24_hours.c](./8-24_hours.c): C function that prints every minute of the day
