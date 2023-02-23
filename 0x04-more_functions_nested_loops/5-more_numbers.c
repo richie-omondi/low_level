@@ -2,7 +2,7 @@
 
 /**
  * more_numbers - Entry point
- * Description: Prints 10 times 
+ * Description: Prints 10 times
  * the numbers from 0 -14
  * Return: void
  */
