@@ -37,9 +37,8 @@ functions written in the project.
 * **2. Collaboration is multiplication**
   * [2-mul.c](./2-mul.c): C function that multiplies 2 numbers.
 
-* **3. islower**
-  * [3-islower.c](./3-islower.c): C function that checks for lowercase characters.
-  Returns `1` if the character is lowercase, `0` otherwise.
+* **3. The numbers speak for themselves**
+  * [3-print_numbers.c](./3-print_numbers.c): C function that prints the numbers, from `0` to `9`, followed by a new line. 
 
 * **4. isalpha**
   * [4-isalpha.c](./4-isalpha.c): C function that checks for alphabetic characters.
