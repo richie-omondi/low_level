@@ -55,9 +55,8 @@ functions written in the project.
 * **8. You are so much sunshine in every square inch**
   * [8-print_square.c](./8-print_square.c): C function that prints a square of hashes on the terminal.
 
-* **9. Learn your times table**
-  * [9-times_table.c](./9-times_table.c): C function that prints the 9 times table,
-  starting with 0.
+* **9. Fizz-Buzz**
+  * [9-fizz_buzz.c](./9-fizz_buzz.c): C function that prints the numbers from `1` to `100`, followed by a new line. But for multiples of three print Fizz instead of the number and for the multiples of five print Buzz. For numbers which are multiples of both three and five print FizzBuzz. Each number or word should be separated by a space
 
 * **10. a + b**
   * [10-add.c](./10-add.c): C function that returns the addition of two integers.
