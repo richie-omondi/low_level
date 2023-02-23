@@ -31,9 +31,8 @@ functions written in the project.
 * **0. isupper**
   * [0-isupper.c](./0-isupper.c): C program that checks for uppercase character. Returns `1` if `c` is uppercase. Returns `0` otherwise.
 
-* **1. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game**
-  * [1-alphabet.c](./1-alphabet.c): C function that prints the alphabet in lowercase,
-  followed by a new line.
+* **1. isdigit**
+  * [1-isdigit.c](./1-isdigit.c): C function that checks for a digit (0 through 9). Returns `1` if `c` is a digit, `0` otherwise.
 
 * **2. 10 x alphabet**
   * [2-print_alphabet_x10.c](./2-print_alphabet_x10.c): C function that prints the
