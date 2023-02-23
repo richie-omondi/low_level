@@ -34,9 +34,8 @@ functions written in the project.
 * **1. isdigit**
   * [1-isdigit.c](./1-isdigit.c): C function that checks for a digit (0 through 9). Returns `1` if `c` is a digit, `0` otherwise.
 
-* **2. 10 x alphabet**
-  * [2-print_alphabet_x10.c](./2-print_alphabet_x10.c): C function that prints the
-  alphabet in lowercase 10 times, followed by a new line.
+* **2. Collaboration is multiplication**
+  * [2-mul.c](./2-mul.c): C function that multiplies 2 numbers.
 
 * **3. islower**
   * [3-islower.c](./3-islower.c): C function that checks for lowercase characters.
