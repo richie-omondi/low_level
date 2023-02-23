@@ -1,4 +1,4 @@
-# C - Functions, nested loops
+# C - More Functions, more nested loops
 
 This repo contains C software written to implement different functions. There is no use of a standard library.
 
