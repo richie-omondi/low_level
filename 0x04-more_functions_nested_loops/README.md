@@ -23,8 +23,7 @@ functions written in the project.
 | `7-print_diagonal.c`     | `void print_diagonal(int n);`    |
 | `8-print_sqaure.c`       | `void print_square(int size);`   |
 | `10-print_triangle.c`    | `void print_triangle(int size);` |
-| `11-print_to_98.c`       | `void print_to_98(int n);`       |
-| `100-times_table.c`      | `void print_times_table(int n)`  |
+| `101-print_number.c`     | `void print number(int n);`      |
 
 ## Tasks :page_with_curl:
 
@@ -58,8 +57,8 @@ functions written in the project.
 * **9. Fizz-Buzz**
   * [9-fizz_buzz.c](./9-fizz_buzz.c): C function that prints the numbers from `1` to `100`, followed by a new line. But for multiples of three print Fizz instead of the number and for the multiples of five print Buzz. For numbers which are multiples of both three and five print FizzBuzz. Each number or word should be separated by a space
 
-* **10. a + b**
-  * [10-add.c](./10-add.c): C function that returns the addition of two integers.
+* **10. Triangles**
+  * [10-print_triangle.c](./10-print_triangle.c): C function that pri.
 
 * **11. 98 Battery Street, San Francisco CA 94111**
   * [11-print_to_98.c](./11-print_to_98.c): C function that prints all natural numbers
