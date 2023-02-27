@@ -31,8 +31,8 @@ functions written in the project.
 * **0. 98 Battery St**
   * [0-reset_to_98.c](./0-reset_to_98.c): C program that takes a pointer to an int as a parameter and updates the value it points to to `98`
 
-* **1. isdigit**
-  * [1-isdigit.c](./1-isdigit.c): C function that checks for a digit (0 through 9). Returns `1` if `c` is a digit, `0` otherwise.
+* **1. Don't swap horses in crossing a stream**
+  * [1-swap.c](./1-swap.c): C function that swaps the values of 2 integers. 
 
 * **2. Collaboration is multiplication**
   * [2-mul.c](./2-mul.c): C function that multiplies 2 numbers.
