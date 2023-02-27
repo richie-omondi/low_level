@@ -54,8 +54,8 @@ functions written in the project.
   * The function should print the second half of the string
   * If the number of characters is odd, the function should print the last `n` characters of the string, where `n = (length_of_the_string - 1) / 2`
 
-* **8. You are so much sunshine in every square inch**
-  * [8-print_square.c](./8-print_square.c): C function that prints a square of hashes on the terminal.
+* **8. Arrays are not pointers**
+  * [8-print_array.c](./8-print_array.c): C function that prints `n` elements of an array of integers, followed by a new line. The numbers should be displayed in the same order as they are stored in the array. Numbers must be separated by comma, followed by a space.
 
 * **9. Fizz-Buzz**
   * [9-fizz_buzz.c](./9-fizz_buzz.c): C function that prints the numbers from `1` to `100`, followed by a new line. But for multiples of three print Fizz instead of the number and for the multiples of five print Buzz. For numbers which are multiples of both three and five print FizzBuzz. Each number or word should be separated by a space
