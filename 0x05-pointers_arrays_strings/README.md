@@ -40,8 +40,8 @@ functions written in the project.
 * **3. I do not fear computers. I fear the lack of them**
   * [3-puts.c](./3-puts.c): C function that prints a string, followed by a new line, to `stdout`. 
 
-* **4. I believe in numbers and signs**
-  * [4-print_most_numbers.c](./4-print_most_numbers.c): C function that prints the numbers, from `0` to `9`, followed by a new line, except 2 and 4.
+* **4. I can only go one way. I've not got a reverse gear**
+  * [4-print_rev.c](./4-print_rev.c): C function that prints a string in reverse, followed by a new line..
 
 * **5. Numbers constitute the only universal language**
   * [5-more_numbers.c](./5-more_numbers.c): C function that prints 10 times the numbers, from `0` to `14`, followed by a new line.
