@@ -23,7 +23,7 @@ functions written in the project.
 | `7-puts_half.c`          | `void puts_half(char *str);`           |
 | `8-print_array.c`        | `void print_array(int *a, int n);`     |
 | `9-strcpy.c`             | `char *_strcpy(char *dest, char *src);`|
-| `9-strcpy.c`             | `;`                                    |
+| `100-atoi.c`             | `int _atoi(char *s);`                  |
 | `101-print_number.c`     | `void print number(int n);`            |
 
 ## Tasks :page_with_curl:
@@ -60,8 +60,12 @@ functions written in the project.
 * **9. strcpy**
   * [9-strcpy.c](./9-strcpy.c): C function that copies the string pointed to by `src`, including the terminating null byte (\0), to the buffer pointed to by `dest`.
 
-* **10. Triangles**
-  * [10-print_triangle.c](./10-print_triangle.c): C function that pri.
+* **10. Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers**
+  * [100-atoi.c](./100-atoi.c): C function that converts a string to an integer.
+  * The number in the string can be preceded by an infinite number of characters
+  * You need to take into account all the `-` and `+` signs before the number
+  * If there are no numbers in the string, the function must return `0`
+  * Use the `-fsanitize=signed-integer-overflow` `gcc` flag to compile your code..
 
 * **11. The problem of distinguishing prime numbers from composite numbers and of resolving the latter into their prime factors is known to be one of the most important and useful in arithmetic**
   * [100-prime_factor.c](./100-prime_factor.c): The prime factors of `1231952` are `2`, `2`, `2`, `2`, `37` and `2081`. Write a program that finds and prints the largest prime factor of the number `612852475143`, followed by a new line.
