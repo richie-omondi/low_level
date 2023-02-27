@@ -24,7 +24,6 @@ functions written in the project.
 | `8-print_array.c`        | `void print_array(int *a, int n);`     |
 | `9-strcpy.c`             | `char *_strcpy(char *dest, char *src);`|
 | `100-atoi.c`             | `int _atoi(char *s);`                  |
-| `101-print_number.c`     | `void print number(int n);`            |
 
 ## Tasks :page_with_curl:
 
@@ -67,7 +66,7 @@ functions written in the project.
   * If there are no numbers in the string, the function must return `0`
   * Use the `-fsanitize=signed-integer-overflow` `gcc` flag to compile your code..
 
-* **11. The problem of distinguishing prime numbers from composite numbers and of resolving the latter into their prime factors is known to be one of the most important and useful in arithmetic**
-  * [100-prime_factor.c](./100-prime_factor.c): The prime factors of `1231952` are `2`, `2`, `2`, `2`, `37` and `2081`. Write a program that finds and prints the largest prime factor of the number `612852475143`, followed by a new line.
+* **11. Don't hate the hacker, hate the code**
+  * [101-keygen.c](./101-keygen.c): Create a program that generates random valid passwords for the program `101-crackme`.
 
 
