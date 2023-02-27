@@ -49,8 +49,10 @@ functions written in the project.
 * **6. Half the lies they tell about me aren't true**
   * [6-puts2.c](./6-puts2.c): C function that prints every other character of a string, starting with the first character, followed by a new line.
 
-* **7.  I feel like I am diagonally parked in a parallel universe**
-  * [7-print_diagonal.c](./7-print_diagonal.c): C function that prints a diagonal line on the terminal.
+* **7. Winning is only half of it. Having fun is the other half**
+  * [7-puts_half.c](./7-puts_half.c): Write a function that prints half of a string, followed by a new line.
+  * The function should print the second half of the string
+  * If the number of characters is odd, the function should print the last `n` characters of the string, where `n = (length_of_the_string - 1) / 2`
 
 * **8. You are so much sunshine in every square inch**
   * [8-print_square.c](./8-print_square.c): C function that prints a square of hashes on the terminal.
