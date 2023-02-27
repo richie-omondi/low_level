@@ -57,8 +57,8 @@ functions written in the project.
 * **8. Arrays are not pointers**
   * [8-print_array.c](./8-print_array.c): C function that prints `n` elements of an array of integers, followed by a new line. The numbers should be displayed in the same order as they are stored in the array. Numbers must be separated by comma, followed by a space.
 
-* **9. Fizz-Buzz**
-  * [9-fizz_buzz.c](./9-fizz_buzz.c): C function that prints the numbers from `1` to `100`, followed by a new line. But for multiples of three print Fizz instead of the number and for the multiples of five print Buzz. For numbers which are multiples of both three and five print FizzBuzz. Each number or word should be separated by a space
+* **9. strcpy**
+  * [9-strcpy.c](./9-strcpy.c): C function that copies the string pointed to by `src`, including the terminating null byte (\0), to the buffer pointed to by `dest`.
 
 * **10. Triangles**
   * [10-print_triangle.c](./10-print_triangle.c): C function that pri.
@@ -66,6 +66,4 @@ functions written in the project.
 * **11. The problem of distinguishing prime numbers from composite numbers and of resolving the latter into their prime factors is known to be one of the most important and useful in arithmetic**
   * [100-prime_factor.c](./100-prime_factor.c): The prime factors of `1231952` are `2`, `2`, `2`, `2`, `37` and `2081`. Write a program that finds and prints the largest prime factor of the number `612852475143`, followed by a new line.
 
-* **12. Numbers have life; they're not just symbols on paper**
-  * [101-print_number.c](./101-print_number.c): C function that prints an integer.
 
