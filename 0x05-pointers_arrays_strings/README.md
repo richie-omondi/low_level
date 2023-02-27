@@ -34,8 +34,8 @@ functions written in the project.
 * **1. Don't swap horses in crossing a stream**
   * [1-swap.c](./1-swap.c): C function that swaps the values of 2 integers. 
 
-* **2. Collaboration is multiplication**
-  * [2-mul.c](./2-mul.c): C function that multiplies 2 numbers.
+* **2. This report, by its very length, defends itself against the risk of being read**
+  * [2-strlen.c](./2-strlen.c): C function that returns the length of a string.
 
 * **3. The numbers speak for themselves**
   * [3-print_numbers.c](./3-print_numbers.c): C function that prints the numbers, from `0` to `9`, followed by a new line. 
