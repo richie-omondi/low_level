@@ -37,8 +37,8 @@ functions written in the project.
 * **2. This report, by its very length, defends itself against the risk of being read**
   * [2-strlen.c](./2-strlen.c): C function that returns the length of a string.
 
-* **3. The numbers speak for themselves**
-  * [3-print_numbers.c](./3-print_numbers.c): C function that prints the numbers, from `0` to `9`, followed by a new line. 
+* **3. I do not fear computers. I fear the lack of them**
+  * [3-puts.c](./3-puts.c): C function that prints a string, followed by a new line, to `stdout`. 
 
 * **4. I believe in numbers and signs**
   * [4-print_most_numbers.c](./4-print_most_numbers.c): C function that prints the numbers, from `0` to `9`, followed by a new line, except 2 and 4.
