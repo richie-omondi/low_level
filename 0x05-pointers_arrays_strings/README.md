@@ -46,8 +46,8 @@ functions written in the project.
 * **5. A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes**
   * [5-rev-string.c](./5-rev-string.c): C function that reverses a string.
 
-* **6. The shortest distance between two points is a straight line**
-  * [6-print_line.c](./6-print_line.c): C function that prints a straight line.
+* **6. Half the lies they tell about me aren't true**
+  * [6-puts2.c](./6-puts2.c): C function that prints every other character of a string, starting with the first character, followed by a new line.
 
 * **7.  I feel like I am diagonally parked in a parallel universe**
   * [7-print_diagonal.c](./7-print_diagonal.c): C function that prints a diagonal line on the terminal.
