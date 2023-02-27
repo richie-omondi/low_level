@@ -43,8 +43,8 @@ functions written in the project.
 * **4. I can only go one way. I've not got a reverse gear**
   * [4-print_rev.c](./4-print_rev.c): C function that prints a string in reverse, followed by a new line..
 
-* **5. Numbers constitute the only universal language**
-  * [5-more_numbers.c](./5-more_numbers.c): C function that prints 10 times the numbers, from `0` to `14`, followed by a new line.
+* **5. A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes**
+  * [5-rev-string.c](./5-rev-string.c): C function that reverses a string.
 
 * **6. The shortest distance between two points is a straight line**
   * [6-print_line.c](./6-print_line.c): C function that prints a straight line.
