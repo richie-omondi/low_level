@@ -22,7 +22,7 @@ functions written in the project.
 | `6-cap_string.c`         | `char *cap_string(char *);`                           |
 | `7-leet.c`               | `char *leet(char *);`                                 |
 | `100-rot13.c`            | `char *rot13(char *str);`                             |
-| `9-strcpy.c`             | `char *_strcpy(char *dest, char *src);`               |
+| `101-print_number.c`     | `void print_number(int n);`                           |
 | `100-atoi.c`             | `int _atoi(char *s);`                                 |
 | `100-atoi.c`             | `int _atoi(char *s);`                                 |
 | `100-atoi.c`             | `int _atoi(char *s);`                                 |
@@ -60,8 +60,8 @@ functions written in the project.
 * **8. rot13**
   * [100-rot13.c](./100-rot13.c): C function that encodes a string using rot13
 
-* **9. strcpy**
-  * [9-strcpy.c](./9-strcpy.c): C function that copies the string pointed to by `src`, including the terminating null byte (\0), to the buffer pointed to by `dest`.
+* **9. Numbers have life; they're not just symbols on paper**
+  * [101-print_number.c](./101-print_number.c): C function that prints an integer
 
 * **10. Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers**
   * [100-atoi.c](./100-atoi.c): C function that converts a string to an integer.
