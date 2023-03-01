@@ -25,7 +25,7 @@ functions written in the project.
 | `101-print_number.c`     | `void print_number(int n);`                           |
 | `100-atoi.c`             | `int _atoi(char *s);`                                 |
 | `100-atoi.c`             | `int _atoi(char *s);`                                 |
-| `100-atoi.c`             | `int _atoi(char *s);`                                 |
+
 
 
 
@@ -58,17 +58,21 @@ functions written in the project.
   * [7-leet.c](./7-leet.c): C program that converts a string to `1337`
 
 * **8. rot13**
-  * [100-rot13.c](./100-rot13.c): C function that encodes a string using rot13
+  * [100-rot13.c](./100-rot13.c): C function that encodes a string using `rot13`
 
 * **9. Numbers have life; they're not just symbols on paper**
   * [101-print_number.c](./101-print_number.c): C function that prints an integer
 
-* **10. Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers**
-  * [100-atoi.c](./100-atoi.c): C function that converts a string to an integer.
-  * The number in the string can be preceded by an infinite number of characters
-  * You need to take into account all the `-` and `+` signs before the number
-  * If there are no numbers in the string, the function must return `0`
-  * Use the `-fsanitize=signed-integer-overflow` `gcc` flag to compile your code..
+* **10. A dream doesn't become reality through magic; it takes sweat, determination and hard work**
+  * [102-magic.c](./102-magic.c): Add one line to this code, so that the program prints `a[2] = 98`, followed by a new line.
+    * You are not allowed to use the variable `a` in your new line of code
+    * You are not allowed to modify the variable `p`
+    * You can only write one statement
+    * You are not allowed to use `,`
+    * You are not allowed to code anything else than the line of expected line of code at the expected line
+    * Your code should be written at line 19, before the ;
+    * Do not remove anything from the initial code (not even the comments)
+    * and don’t change anything but the line of code you are adding (don’t change the spaces to tabs!)
 
 * **11. Don't hate the hacker, hate the code**
   * [101-keygen.c](./101-keygen.c): Create a program that generates random valid passwords for the program `101-crackme`.
