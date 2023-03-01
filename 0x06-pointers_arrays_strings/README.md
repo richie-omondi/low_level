@@ -51,8 +51,8 @@ functions written in the project.
 * **5. Always look up**
   * [5-string_toupper.c](./5-string_toipper.c): C function that changes all lowercase letter of a string to uppercase.
 
-* **6. Half the lies they tell about me aren't true**
-  * [6-puts2.c](./6-puts2.c): C function that prints every other character of a string, starting with the first character, followed by a new line.
+* **6. Expect the best. Prepare for the worst. Capitalize on what comes**
+  * [6-cap_string.c](./6-cap_string.c): C function that capitalizes all words of a string
 
 * **7. Winning is only half of it. Having fun is the other half**
   * [7-puts_half.c](./7-puts_half.c): Write a function that prints half of a string, followed by a new line.
