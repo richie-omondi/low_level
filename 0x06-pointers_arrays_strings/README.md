@@ -74,7 +74,7 @@ functions written in the project.
     * Do not remove anything from the initial code (not even the comments)
     * and don’t change anything but the line of code you are adding (don’t change the spaces to tabs!)
 
-* **11.  It is the addition of strangeness to beauty that constitutes the romantic character in art*
+* **11.  It is the addition of strangeness to beauty that constitutes the romantic character in art**
   * [103-infinite_add.c](./103-infinite_add.c): C functions that add two numbers.
     * Where `n1` and `n2` are the two numbers
     * `r` is the buffer that the function will use to store the result
