@@ -75,4 +75,12 @@ functions written in the project.
     * and don’t change anything but the line of code you are adding (don’t change the spaces to tabs!)
 
 * **11. Don't hate the hacker, hate the code**
-  * [101-keygen.c](./101-keygen.c): Create a program that generates random valid passwords for the program `101-crackme`.
+  * [103-infinite_add.c](./103-infinite_add.c): C functions that add two numbers.
+    * Where `n1` and `n2` are the two numbers
+    * `r` is the buffer that the function will use to store the result
+    * `size_r` is the buffer size
+    * The function returns a pointer to the result
+    * You can assume that you will always get positive numbers, or `0`
+    * You can assume that there will be only digits in the strings `n1` and `n2`
+    * `n1` and `n2` will never be empty
+    * If the result can not be stored in `r` the function must return `0`
