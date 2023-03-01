@@ -45,8 +45,8 @@ functions written in the project.
 * **3. strcmp**
   * [3-strcmp.c](./3-strcmp.c): C function that compares 2 strings
 
-* **4. I can only go one way. I've not got a reverse gear**
-  * [4-print_rev.c](./4-print_rev.c): C function that prints a string in reverse, followed by a new line..
+* **4. I am a kind of paranoid in reverse. I suspect people of plotting to make me happy**
+  * [4-rev_array.c](./4-rev_array.c): C function that reverses the content of an array of integers
 
 * **5. A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes**
   * [5-rev-string.c](./5-rev-string.c): C function that reverses a string.
