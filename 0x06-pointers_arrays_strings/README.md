@@ -39,8 +39,8 @@ functions written in the project.
 * **1. strncat**
   * [1-strncat.c](./1-strncat.c): C function that implements strncat() from string.h as part of the C standard library. 
 
-* **2. This report, by its very length, defends itself against the risk of being read**
-  * [2-strlen.c](./2-strlen.c): C function that returns the length of a string.
+* **2. strncpy**
+  * [2-strlen.c](./2-strlen.c): C function that copies a string.
 
 * **3. I do not fear computers. I fear the lack of them**
   * [3-puts.c](./3-puts.c): C function that prints a string, followed by a new line, to `stdout`. 
