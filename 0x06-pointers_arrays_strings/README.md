@@ -42,8 +42,8 @@ functions written in the project.
 * **2. strncpy**
   * [2-strlen.c](./2-strlen.c): C function that copies a string.
 
-* **3. I do not fear computers. I fear the lack of them**
-  * [3-puts.c](./3-puts.c): C function that prints a string, followed by a new line, to `stdout`. 
+* **3. strcmp**
+  * [3-strcmp.c](./3-strcmp.c): C function that compares 2 strings
 
 * **4. I can only go one way. I've not got a reverse gear**
   * [4-print_rev.c](./4-print_rev.c): C function that prints a string in reverse, followed by a new line..
