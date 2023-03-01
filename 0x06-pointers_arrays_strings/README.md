@@ -21,7 +21,7 @@ functions written in the project.
 | `5-string_toupper.c`     | `char *string_toupper(char *);`                       |
 | `6-cap_string.c`         | `char *cap_string(char *);`                           |
 | `7-leet.c`               | `char *leet(char *);`                                 |
-| `8-print_array.c`        | `void print_array(int *a, int n);`                    |
+| `100-rot13.c`            | `char *rot13(char *str);`                             |
 | `9-strcpy.c`             | `char *_strcpy(char *dest, char *src);`               |
 | `100-atoi.c`             | `int _atoi(char *s);`                                 |
 | `100-atoi.c`             | `int _atoi(char *s);`                                 |
@@ -57,8 +57,8 @@ functions written in the project.
 * **7. Mozart composed his music not for the elite, but for everybody**
   * [7-leet.c](./7-leet.c): C program that converts a string to `1337`
 
-* **8. Arrays are not pointers**
-  * [8-print_array.c](./8-print_array.c): C function that prints `n` elements of an array of integers, followed by a new line. The numbers should be displayed in the same order as they are stored in the array. Numbers must be separated by comma, followed by a space.
+* **8. rot13**
+  * [100-rot13.c](./100-rot13.c): C function that encodes a string using rot13
 
 * **9. strcpy**
   * [9-strcpy.c](./9-strcpy.c): C function that copies the string pointed to by `src`, including the terminating null byte (\0), to the buffer pointed to by `dest`.
