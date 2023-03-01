@@ -54,10 +54,8 @@ functions written in the project.
 * **6. Expect the best. Prepare for the worst. Capitalize on what comes**
   * [6-cap_string.c](./6-cap_string.c): C function that capitalizes all words of a string
 
-* **7. Winning is only half of it. Having fun is the other half**
-  * [7-puts_half.c](./7-puts_half.c): Write a function that prints half of a string, followed by a new line.
-  * The function should print the second half of the string
-  * If the number of characters is odd, the function should print the last `n` characters of the string, where `n = (length_of_the_string - 1) / 2`
+* **7. Mozart composed his music not for the elite, but for everybody**
+  * [7-leet.c](./7-leet.c): C program that converts a string to `1337`
 
 * **8. Arrays are not pointers**
   * [8-print_array.c](./8-print_array.c): C function that prints `n` elements of an array of integers, followed by a new line. The numbers should be displayed in the same order as they are stored in the array. Numbers must be separated by comma, followed by a space.
