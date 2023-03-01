@@ -31,8 +31,10 @@ functions written in the project.
 
 ## Tasks :page_with_curl:
 
-* **0. 98 Battery St**
-  * [0-reset_to_98.c](./0-reset_to_98.c): C program that takes a pointer to an int as a parameter and updates the value it points to to `98`
+* **0. strcat**
+  * [0-reset_to_98.c](./0-reset_to_98.c): C program that concatenates two strings.
+  * This function appends the `src` string to the `dest` string, overwriting the terminating null byte (\0) at the end of `dest`, and then adds a terminating null byte
+  * Returns a pointer to the resulting string `dest`
 
 * **1. Don't swap horses in crossing a stream**
   * [1-swap.c](./1-swap.c): C function that swaps the values of 2 integers. 
