@@ -32,12 +32,12 @@ functions written in the project.
 ## Tasks :page_with_curl:
 
 * **0. strcat**
-  * [0-reset_to_98.c](./0-reset_to_98.c): C program that concatenates two strings.
+  * [0-strcat.c](./0-strcat.c): C program that concatenates two strings.
    * This function appends the `src` string to the `dest` string, overwriting the terminating null byte (\0) at the end of `dest`, and then adds a terminating null byte
    * Returns a pointer to the resulting string `dest`
 
-* **1. Don't swap horses in crossing a stream**
-  * [1-swap.c](./1-swap.c): C function that swaps the values of 2 integers. 
+* **1. strncat**
+  * [1-strncat.c](./1-strncat.c): C function that implements strncat() from string.h as part of the C standard library. 
 
 * **2. This report, by its very length, defends itself against the risk of being read**
   * [2-strlen.c](./2-strlen.c): C function that returns the length of a string.
