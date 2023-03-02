@@ -29,7 +29,7 @@ functions written in the project.
 
 
 
-## Tasks :page_with_curl:
+## Code :page_with_curl:
 
 * **0. strcat**
   * [0-strcat.c](./0-strcat.c): C program that concatenates two strings.
