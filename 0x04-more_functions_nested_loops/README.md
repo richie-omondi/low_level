@@ -25,7 +25,7 @@ functions written in the project.
 | `10-print_triangle.c`    | `void print_triangle(int size);` |
 | `101-print_number.c`     | `void print number(int n);`      |
 
-## Tasks :page_with_curl:
+## Code :page_with_curl:
 
 * **0. isupper**
   * [0-isupper.c](./0-isupper.c): C program that checks for uppercase character. Returns `1` if `c` is uppercase. Returns `0` otherwise.
