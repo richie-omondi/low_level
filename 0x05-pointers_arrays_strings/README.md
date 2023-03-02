@@ -25,7 +25,7 @@ functions written in the project.
 | `9-strcpy.c`             | `char *_strcpy(char *dest, char *src);`|
 | `100-atoi.c`             | `int _atoi(char *s);`                  |
 
-## Tasks :page_with_curl:
+## Code :page_with_curl:
 
 * **0. 98 Battery St**
   * [0-reset_to_98.c](./0-reset_to_98.c): C program that takes a pointer to an int as a parameter and updates the value it points to to `98`
