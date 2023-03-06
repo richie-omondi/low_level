@@ -23,10 +23,6 @@ functions written in the project.
 | `8-print_diagsums.c`     | `void print_diagsums(int *a, int size);`               |
 | `101-print_number.c`     | `void print_number(int n);`                            |
 | `100-atoi.c`             | `int _atoi(char *s);`                                  |
-| `100-atoi.c`             | `int _atoi(char *s);`                                  |
-
-
-
 
 ## Code :page_with_curl:
 
