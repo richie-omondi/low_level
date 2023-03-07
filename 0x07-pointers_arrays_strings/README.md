@@ -50,8 +50,8 @@ functions written in the project.
 * **5. strstr**
   * [5-strstr.c](./5-strstr.c): C function that locates a substring
  
-* **6. Expect the best. Prepare for the worst. Capitalize on what comes**
-  * [6-cap_string.c](./6-cap_string.c): C function that capitalizes all words of a string
+* **6. Chess is a mental toture*
+  * [6-print_chessboard.c](./6-print_chessboard.c): C function that prints a chessboard
 
 * **7. Mozart composed his music not for the elite, but for everybody**
   * [7-leet.c](./7-leet.c): C program that converts a string to `1337`
@@ -62,25 +62,5 @@ functions written in the project.
 * **9. Numbers have life; they're not just symbols on paper**
   * [101-print_number.c](./101-print_number.c): C function that prints an integer
 
-* **10. A dream doesn't become reality through magic; it takes sweat, determination and hard work**
-  * [102-magic.c](./102-magic.c): Add one line to this code, so that the program prints `a[2] = 98`, followed by a new line.
-    * You are not allowed to use the variable `a` in your new line of code
-    * You are not allowed to modify the variable `p`
-    * You can only write one statement
-    * You are not allowed to use `,`
-    * You are not allowed to code anything else than the line of expected line of code at the expected line
-    * Your code should be written at line 19, before the ;
-    * Do not remove anything from the initial code (not even the comments)
-    * and don’t change anything but the line of code you are adding (don’t change the spaces to tabs!)
 
-* **11.  It is the addition of strangeness to beauty that constitutes the romantic character in art**
-  * [103-infinite_add.c](./103-infinite_add.c): C functions that add two numbers.
-    * Where `n1` and `n2` are the two numbers
-    * `r` is the buffer that the function will use to store the result
-    * `size_r` is the buffer size
-    * The function returns a pointer to the result
-    * You can assume that you will always get positive numbers, or `0`
-    * You can assume that there will be only digits in the strings `n1` and `n2`
-    * `n1` and `n2` will never be empty
-    * If the result can not be stored in `r` the function must return `0`
 
