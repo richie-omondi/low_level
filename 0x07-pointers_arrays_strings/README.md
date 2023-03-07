@@ -42,8 +42,10 @@ functions written in the project.
 * **3. strspn**
   * [3-strspn.c](./3-strspn.c): C function that gets the length of a prefix substring. Returns the number of bytes in the initial segment of `s` which consist only of bytes from `accept`
 
-* **4. I am a kind of paranoid in reverse. I suspect people of plotting to make me happy**
-  * [4-rev_array.c](./4-rev_array.c): C function that reverses the content of an array of integers
+* **4. strpbrk**
+  * [4-strpbrk.c](./4-strpbrk.c): C function that searches a string for any of a set of bytes.
+    * The `_strpbrk()` function locates the first occurrence in the string `s` of any of the bytes in the string `accept`
+    * Returns a pointer to the byte in `s` that matches one of the bytes in `accept`, or `NULL` if no such byte is found
 
 * **5. Always look up**
   * [5-string_toupper.c](./5-string_toipper.c): C function that changes all lowercase letter of a string to uppercase.
