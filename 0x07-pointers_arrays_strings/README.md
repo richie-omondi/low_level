@@ -51,10 +51,10 @@ functions written in the project.
   * [5-strstr.c](./5-strstr.c): C function that locates a substring
  
 * **6. Chess is a mental toture*
-  * [6-print_chessboard.c](./6-print_chessboard.c): C function that prints a chessboard
+  * [7-print_chessboard.c](./7-print_chessboard.c): C function that prints a chessboard
 
-* **7. Mozart composed his music not for the elite, but for everybody**
-  * [7-leet.c](./7-leet.c): C program that converts a string to `1337`
+* **7. The line of life is a ragged diagonal between duty and desire**
+  * [8-print_diagsums.c](./7-print_diagsums.c): C function that prints the sum of the two diagonals of a square matrix of integers.
 
 * **8. rot13**
   * [100-rot13.c](./100-rot13.c): C function that encodes a string using `rot13`
