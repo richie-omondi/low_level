@@ -31,8 +31,10 @@ functions written in the project.
     * The `_memset()` function fills the first `n` bytes of the memory area pointed to by `s` with the constant byte `b`
     * Returns a pointer to the memory area `s`
 
-* **1. strncat**
-  * [1-strncat.c](./1-strncat.c): C function that implements strncat() from string.h as part of the C standard library. 
+* **1. memcpy**
+  * [1-memcpy.c](./1-memcpy.c): C function that copies memory area.
+    * The `_memcpy()` function copies n bytes from memory area src to memory area dest
+    * Returns a pointer to dest 
 
 * **2. strncpy**
   * [2-strlen.c](./2-strlen.c): C function that copies a string.
