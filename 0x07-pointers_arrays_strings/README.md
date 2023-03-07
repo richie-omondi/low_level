@@ -36,9 +36,9 @@ functions written in the project.
     * The `_memcpy()` function copies n bytes from memory area src to memory area dest
     * Returns a pointer to dest 
 
-* **2. strncpy**
-  * [2-strlen.c](./2-strlen.c): C function that copies a string.
-
+* **2. strchr**
+  * [2-strchr.c](./2-strchr.c): C function that locates a character in a string. Returns a pointer to the first occurrence of the character `c` in the string `s`, or `NULL` if the character is not found
+ 
 * **3. strcmp**
   * [3-strcmp.c](./3-strcmp.c): C function that compares 2 strings
 
