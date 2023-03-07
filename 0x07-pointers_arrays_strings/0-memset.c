@@ -3,7 +3,7 @@
 /**
  * *_memset - fills memory with a constant byte.
  * @s: pointer to put the constant
- * @b: constant
+ * @b: constant byte
  * @n: max bytes to use
  * Return: s
  */
