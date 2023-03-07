@@ -21,7 +21,7 @@ functions written in the project.
 | `5-strstr.c`             | `char *_strstr(char *haystack, char *needle);`         |
 | `7-print_chessboard.c`   | `void print_chessboard(char (*a)[8]);`                 |
 | `8-print_diagsums.c`     | `void print_diagsums(int *a, int size);`               |
-| `101-print_number.c`     | `void print_number(int n);`                            |
+| `100-set_string.c`       |  `void set_string(char **s, char *to);`                |
 | `100-atoi.c`             | `int _atoi(char *s);`                                  |
 
 ## Code :page_with_curl:
@@ -56,8 +56,8 @@ functions written in the project.
 * **7. The line of life is a ragged diagonal between duty and desire**
   * [8-print_diagsums.c](./7-print_diagsums.c): C function that prints the sum of the two diagonals of a square matrix of integers.
 
-* **8. rot13**
-  * [100-rot13.c](./100-rot13.c): C function that encodes a string using `rot13`
+* **8. Double pointer, double fun
+  * [100-set_string.c](./100-set_string.c): C function that sets the value of a pointer to a char
 
 * **9. Numbers have life; they're not just symbols on paper**
   * [101-print_number.c](./101-print_number.c): C function that prints an integer
