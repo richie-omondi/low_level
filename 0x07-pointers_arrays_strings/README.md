@@ -39,8 +39,8 @@ functions written in the project.
 * **2. strchr**
   * [2-strchr.c](./2-strchr.c): C function that locates a character in a string. Returns a pointer to the first occurrence of the character `c` in the string `s`, or `NULL` if the character is not found
  
-* **3. strcmp**
-  * [3-strcmp.c](./3-strcmp.c): C function that compares 2 strings
+* **3. strspn**
+  * [3-strspn.c](./3-strspn.c): C function that gets the length of a prefix substring. Returns the number of bytes in the initial segment of `s` which consist only of bytes from `accept`
 
 * **4. I am a kind of paranoid in reverse. I suspect people of plotting to make me happy**
   * [4-rev_array.c](./4-rev_array.c): C function that reverses the content of an array of integers
