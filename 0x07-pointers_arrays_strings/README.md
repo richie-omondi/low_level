@@ -56,7 +56,7 @@ functions written in the project.
 * **7. The line of life is a ragged diagonal between duty and desire**
   * [8-print_diagsums.c](./7-print_diagsums.c): C function that prints the sum of the two diagonals of a square matrix of integers.
 
-* **8. Double pointer, double fun
+* **8. Double pointer, double fun**
   * [100-set_string.c](./100-set_string.c): C function that sets the value of a pointer to a char
 
 * **9. Numbers have life; they're not just symbols on paper**
