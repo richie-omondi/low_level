@@ -50,7 +50,7 @@ functions written in the project.
 * **5. strstr**
   * [5-strstr.c](./5-strstr.c): C function that locates a substring
  
-* **6. Chess is a mental toture*
+* **6. Chess is a mental toture**
   * [7-print_chessboard.c](./7-print_chessboard.c): C function that prints a chessboard
 
 * **7. The line of life is a ragged diagonal between duty and desire**
