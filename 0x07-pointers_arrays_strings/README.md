@@ -47,9 +47,9 @@ functions written in the project.
     * The `_strpbrk()` function locates the first occurrence in the string `s` of any of the bytes in the string `accept`
     * Returns a pointer to the byte in `s` that matches one of the bytes in `accept`, or `NULL` if no such byte is found
 
-* **5. Always look up**
-  * [5-string_toupper.c](./5-string_toipper.c): C function that changes all lowercase letter of a string to uppercase.
-
+* **5. strstr**
+  * [5-strstr.c](./5-strstr.c): C function that locates a substring
+ 
 * **6. Expect the best. Prepare for the worst. Capitalize on what comes**
   * [6-cap_string.c](./6-cap_string.c): C function that capitalizes all words of a string
 
