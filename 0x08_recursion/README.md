@@ -25,10 +25,8 @@ functions written in the project.
 
 ## Code :page_with_curl:
 
-* **0. memset**
-  * [0-memset.c](./0-memset.c): C function that fills memory with a constant byte.
-    * The `_memset()` function fills the first `n` bytes of the memory area pointed to by `s` with the constant byte `b`
-    * Returns a pointer to the memory area `s`
+* **0. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget**
+  * [0-puts_recursion.c](./0-puts_recursion.c): C function that prints a string, followed by a new line.
 
 * **1. memcpy**
   * [1-memcpy.c](./1-memcpy.c): C function that copies memory area.
