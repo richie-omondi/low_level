@@ -40,8 +40,8 @@ functions written in the project.
 * **4. Once an idea has taken hold of the brain it's almost impossible to eradicate**
   * [4-pow_recursion.c](./4-pow_recursion.c): C function that returns the value of x raised to the power of y.
 
-* **5. strstr**
-  * [5-strstr.c](./5-strstr.c): C function that locates a substring
+* **5. Your subconscious is looking for the dreamer**
+  * [5-sqrt_recursion.c](./5-sqrt_recursion.c): C function that returns the natural square root of a number
  
 * **6. Chess is a mental toture**
   * [7-print_chessboard.c](./7-print_chessboard.c): C function that prints a chessboard
