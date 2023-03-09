@@ -47,7 +47,7 @@ functions written in the project.
   * [6-is_prime_number.c](./6-is_prime_number.c): C function that returns `1` if the input integer is a prime number, otherwise return `0`.
 
 * **7. They say we only use a fraction of our brain's true potential. Now that's when we're awake. When we're asleep, we can do almost anything**
-  * [100-is_palindrome.c](./100-is_palindrome.c): C function that returns 1 if a string is a palindrome and 0 if not.
+  * [100-is_palindrome.c](./100-is_palindrome.c): C function that returns `1` if a string is a palindrome and `0` if not.
 
 * **8. Double pointer, double fun**
   * [100-set_string.c](./100-set_string.c): C function that sets the value of a pointer to a char.
