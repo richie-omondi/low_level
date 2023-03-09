@@ -20,7 +20,7 @@ functions written in the project.
 | `4-pow_recursion.c`      | `int _pow_recursion(int x, int y);`                    |
 | `5-sqrt_recursion.c`     | `int _sqrt_recursion(int n);`                          |
 | `6-is_prime_number.c`    | `int is_prime_number(int n;`                           |
-| `8-print_diagsums.c`     | `void print_diagsums(int *a, int size);`               |
+| `100-is_paindrome.c`     | `int is_palindrome(char *s);`                          |
 |                          |                                                        |
 
 ## Code :page_with_curl:
@@ -46,8 +46,8 @@ functions written in the project.
 * **6. Inception. Is it possible?**
   * [6-is_prime_number.c](./6-is_prime_number.c): C function that returns `1` if the input integer is a prime number, otherwise return `0`.
 
-* **7. The line of life is a ragged diagonal between duty and desire**
-  * [8-print_diagsums.c](./7-print_diagsums.c): C function that prints the sum of the two diagonals of a square matrix of integers.
+* **7. They say we only use a fraction of our brain's true potential. Now that's when we're awake. When we're asleep, we can do almost anything**
+  * [100-is_palindrome.c](./100-is_palindrome.c): C function that returns 1 if a string is a palindrome and 0 if not.
 
 * **8. Double pointer, double fun**
   * [100-set_string.c](./100-set_string.c): C function that sets the value of a pointer to a char.
