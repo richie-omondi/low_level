@@ -28,10 +28,8 @@ functions written in the project.
 * **0. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget**
   * [0-puts_recursion.c](./0-puts_recursion.c): C function that prints a string, followed by a new line.
 
-* **1. memcpy**
-  * [1-memcpy.c](./1-memcpy.c): C function that copies memory area.
-    * The `_memcpy()` function copies n bytes from memory area src to memory area dest
-    * Returns a pointer to dest 
+* **1. Why is it so important to dream? Because, in my dreams we are together**
+  * [1-print_rev-recusrion.c](./1-print_rev-recursion.c): C function that prints a string in reverse.
 
 * **2. strchr**
   * [2-strchr.c](./2-strchr.c): C function that locates a character in a string. Returns a pointer to the first occurrence of the character `c` in the string `s`, or `NULL` if the character is not found
