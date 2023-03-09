@@ -31,8 +31,8 @@ functions written in the project.
 * **1. Why is it so important to dream? Because, in my dreams we are together**
   * [1-print_rev_recursion.c](./1-print_rev-recursion.c): C function that reverses a string.
 
-* **2. strchr**
-  * [2-strchr.c](./2-strchr.c): C function that locates a character in a string. Returns a pointer to the first occurrence of the character `c` in the string `s`, or `NULL` if the character is not found
+* **2. Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange**
+  * [2-strlen_recursion.c](./2-strlen_recursion.c): C function that returns the length of a string.
  
 * **3. strspn**
   * [3-strspn.c](./3-strspn.c): C function that gets the length of a prefix substring. Returns the number of bytes in the initial segment of `s` which consist only of bytes from `accept`
