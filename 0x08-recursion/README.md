@@ -43,18 +43,11 @@ functions written in the project.
 * **5. Your subconscious is looking for the dreamer**
   * [5-sqrt_recursion.c](./5-sqrt_recursion.c): C function that returns the natural square root of a number
  
-* **6. Chess is a mental toture**
-  * [7-print_chessboard.c](./7-print_chessboard.c): C function that prints a chessboard
+* **6. Inception. Is it possible?**
+  * [6-is_prime_number.c](./6-is_prime_number.c): C function that returns `1` if the input integer is a prime number, otherwise return `0`.
 
 * **7. The line of life is a ragged diagonal between duty and desire**
   * [8-print_diagsums.c](./7-print_diagsums.c): C function that prints the sum of the two diagonals of a square matrix of integers.
 
 * **8. Double pointer, double fun**
-  * [100-set_string.c](./100-set_string.c): C function that sets the value of a pointer to a char
-
-* **9. My primary goal of hacking was the intellectual curiosity, the seduction of adventure**
-  * [101-crackme_password](./101-crackme_password): Create a file that contains the password for the [crackme2](https://github.com/holbertonschool/0x06.c) executable.
-    * Your file should contain the exact password, no new line, no extra space
-    * `ltrace`, `ldd`, `gdb` and `objdump` can help
-    * You may need to install the `openssl` library to run the `crakme2` program: `sudo apt install libssl-dev`
-    * Edit the source list `sudo nano /etc/apt/sources.list` to add the following line: `deb http://security.ubuntu.com/ubuntu xenial-security main` .Then `sudo apt update` and `sudo apt install libssl1.0.0`
+  * [100-set_string.c](./100-set_string.c): C function that sets the value of a pointer to a char.
