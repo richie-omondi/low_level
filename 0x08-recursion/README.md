@@ -34,8 +34,8 @@ functions written in the project.
 * **2. Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange**
   * [2-strlen_recursion.c](./2-strlen_recursion.c): C function that returns the length of a string.
  
-* **3. strspn**
-  * [3-strspn.c](./3-strspn.c): C function that gets the length of a prefix substring. Returns the number of bytes in the initial segment of `s` which consist only of bytes from `accept`
+* **3. You mustn't be afraid to dream a little bigger, darling**
+  * [3-factorial.c](./3-factorial.c): C function that calculates the factorial of a number.
 
 * **4. strpbrk**
   * [4-strpbrk.c](./4-strpbrk.c): C function that searches a string for any of a set of bytes.
