@@ -21,7 +21,7 @@ functions written in the project.
 | `5-sqrt_recursion.c`     | `int _sqrt_recursion(int n);`                          |
 | `6-is_prime_number.c`    | `int is_prime_number(int n;`                           |
 | `100-is_paindrome.c`     | `int is_palindrome(char *s);`                          |
-|                          |                                                        |
+| `101-wildcmp.c`          |  `int wildcmp(char *s1, char *s2);`                    |
 
 ## Code :page_with_curl:
 
@@ -49,5 +49,7 @@ functions written in the project.
 * **7. They say we only use a fraction of our brain's true potential. Now that's when we're awake. When we're asleep, we can do almost anything**
   * [100-is_palindrome.c](./100-is_palindrome.c): C function that returns `1` if a string is a palindrome and `0` if not.
 
-* **8. Double pointer, double fun**
-  * [100-set_string.c](./100-set_string.c): C function that sets the value of a pointer to a char.
+* **8. Inception. Now, before you bother telling me it's impossible...**
+  * [101-wildcmp.c](./101-wildcmp.c): C function that compares two strings and returns `1` if the strings can be considered identical, otherwise return `0`.
+    * s2 can contain the special character `*`.
+    * The special char `*` can replace any string (including an empty string)
