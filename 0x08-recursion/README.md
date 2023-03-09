@@ -1,6 +1,6 @@
 # C -Recursion
 
-This repo contains C software written to implement different functions. There is no use of a standard library.
+This repo contains C software written to implement different recursive functions. There is no use of a standard library.
 
 ## Helper File :raised_hands:
 
@@ -37,10 +37,8 @@ functions written in the project.
 * **3. You mustn't be afraid to dream a little bigger, darling**
   * [3-factorial.c](./3-factorial.c): C function that calculates the factorial of a number.
 
-* **4. strpbrk**
-  * [4-strpbrk.c](./4-strpbrk.c): C function that searches a string for any of a set of bytes.
-    * The `_strpbrk()` function locates the first occurrence in the string `s` of any of the bytes in the string `accept`
-    * Returns a pointer to the byte in `s` that matches one of the bytes in `accept`, or `NULL` if no such byte is found
+* **4. Once an idea has taken hold of the brain it's almost impossible to eradicate**
+  * [4-pow_recursion.c](./4-pow_recursion.c): C function that returns the value of x raised to the power of y.
 
 * **5. strstr**
   * [5-strstr.c](./5-strstr.c): C function that locates a substring
