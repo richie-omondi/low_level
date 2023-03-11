@@ -18,7 +18,6 @@ functions written in the project.
 | `2-strlen_recursion.c`   | `int _strlen_recursion(char *s;`                       |
 | `3-factorial.c`          | `int factorial(int n);`                                |
 | `4-pow_recursion.c`      | `int _pow_recursion(int x, int y);`                    |
-| `5-sqrt_recursion.c`     | `int _sqrt_recursion(int n);`                          |
 
 ## Code :page_with_curl:
 
@@ -35,8 +34,11 @@ functions written in the project.
     * All arguments should be printed, including the first one
     * Only print one argument per line, ending with a new line
  
-* **3. You mustn't be afraid to dream a little bigger, darling**
-  * [3-factorial.c](./3-factorial.c): C function that calculates the factorial of a number.
+* **3. Neither irony nor sarcasm is argument**
+  * Write a program that multiplies two numbers.
+    * Your program should print the result of the multiplication, followed by a new line
+    * You can assume that the two numbers and result of the multiplication can be stored in an integer
+    * If the program does not receive two arguments, your program should print `Error`, followed by a new line, and return `1`
 
 * **4. Once an idea has taken hold of the brain it's almost impossible to eradicate**
   * [4-pow_recursion.c](./4-pow_recursion.c): C function that returns the value of x raised to the power of y.
