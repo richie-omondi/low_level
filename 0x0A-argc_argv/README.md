@@ -1,5 +1,7 @@
 # C -argc, argv
 
+This repo contains code written to understand `argc` and `argv`.
+
 ## Helper File :raised_hands:
 
 * [_putchar.c](./_putchar.c): C function that writes a character to `stdout`.
@@ -17,7 +19,6 @@ functions written in the project.
 | `3-factorial.c`          | `int factorial(int n);`                                |
 | `4-pow_recursion.c`      | `int _pow_recursion(int x, int y);`                    |
 | `5-sqrt_recursion.c`     | `int _sqrt_recursion(int n);`                          |
-| `6-is_prime_number.c`    | `int is_prime_number(int n;`                           |
 
 ## Code :page_with_curl:
 
@@ -29,8 +30,10 @@ functions written in the project.
 * **1. Silence is argument carried out by other means**
   * Program that prints the number of arguments passed to it.
 
-* **2. Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange**
-  * [2-strlen_recursion.c](./2-strlen_recursion.c): C function that returns the length of a string.
+* **2. The best argument against democracy is a five-minute conversation with the average voter**
+  * Write a program that prints all arguments it receives.
+    * All arguments should be printed, including the first one
+    * Only print one argument per line, ending with a new line
  
 * **3. You mustn't be afraid to dream a little bigger, darling**
   * [3-factorial.c](./3-factorial.c): C function that calculates the factorial of a number.
