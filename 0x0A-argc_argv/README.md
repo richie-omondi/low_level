@@ -11,7 +11,7 @@ This repo contains code written to understand `argc` and `argv`.
 * [main.h](./main.h): Header file containing prototypes for all
 functions written in the project.
 
-## Code :page_with_curl:
+## Tasks :page_with_curl:
 
 * **0. It ain't what they call you, it's what you answer to**
   * Program that prints its name, followed by a new line.
