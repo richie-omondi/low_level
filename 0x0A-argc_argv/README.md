@@ -32,7 +32,7 @@ functions written in the project.
     * You can assume that the two numbers and result of the multiplication can be stored in an integer
     * If the program does not receive two arguments, your program should print `Error`, followed by a new line, and return `1`
 
-* **4. To infinity and beyond*
+* **4. To infinity and beyond**
   * Write a program that adds positive numbers.
     * Print the result, followed by a new line
     * If no number is passed to the program, print `0`, followed by a new line
