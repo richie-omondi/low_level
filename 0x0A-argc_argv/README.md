@@ -11,14 +11,6 @@ This repo contains code written to understand `argc` and `argv`.
 * [main.h](./main.h): Header file containing prototypes for all
 functions written in the project.
 
-| File                     | Prototype                                              |
-| ------------------------ | --------------------------------                       |
-| `0-puts_recursion.c`     | `void _puts_recursion(char *s);`                       |
-| `1-print_rev_recursion.c`| `void _print_rev_recursion(char *s);`                  |
-| `2-strlen_recursion.c`   | `int _strlen_recursion(char *s;`                       |
-| `3-factorial.c`          | `int factorial(int n);`                                |
-| `4-pow_recursion.c`      | `int _pow_recursion(int x, int y);`                    |
-
 ## Code :page_with_curl:
 
 * **0. It ain't what they call you, it's what you answer to**
@@ -40,8 +32,12 @@ functions written in the project.
     * You can assume that the two numbers and result of the multiplication can be stored in an integer
     * If the program does not receive two arguments, your program should print `Error`, followed by a new line, and return `1`
 
-* **4. Once an idea has taken hold of the brain it's almost impossible to eradicate**
-  * [4-pow_recursion.c](./4-pow_recursion.c): C function that returns the value of x raised to the power of y.
+* **4. To infinity and beyond*
+  * Write a program that adds positive numbers.
+    * Print the result, followed by a new line
+    * If no number is passed to the program, print `0`, followed by a new line
+    * If one of the number contains symbols that are not digits, print `Error`, followed by a new line, and return `1`
+    * You can assume that numbers and the addition of all the numbers can be stored in an `int`
 
 * **5. Your subconscious is looking for the dreamer**
   * [5-sqrt_recursion.c](./5-sqrt_recursion.c): C function that returns the natural square root of a number.
