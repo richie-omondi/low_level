@@ -40,11 +40,11 @@ functions written in the project.
     * if `NULL` is passed, treat it as an empty string
     * The function should return `NULL` on failure
  
-* **3. Neither irony nor sarcasm is argument**
-  * Program that multiplies two numbers.
-    * Your program should print the result of the multiplication, followed by a new line
-    * You can assume that the two numbers and result of the multiplication can be stored in an integer
-    * If the program does not receive two arguments, your program should print `Error`, followed by a new line, and return `1`
+* **3. If you even dream of beating me you'd better wake up and apologize**
+  * C function that returns a pointer to a 2 dimensional array of integers.
+    * Each element of the grid should be initialized to `0`
+    * The function should return `NULL` on failure
+    * If `width` or `height` is `0` or negative, return `NULL`
 
 * **4. To infinity and beyond**
   * Program that adds positive numbers.
