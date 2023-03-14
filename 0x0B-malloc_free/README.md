@@ -18,7 +18,7 @@ functions written in the project.
 | `2-str_concat.c`         | `char *str_concat(char *s1, char *s2);`                |
 | `3-alloc_grid.c`         | `int **alloc_grid(int width, int height);`             |
 | `4-free_grid.c`          | `int **alloc_grid(int width, int height);`             |
-| `5-sqrt_recursion.c`     | `int _sqrt_recursion(int n);`                          |
+| `100-argstostr.c`        | `char *argstostr(int ac, char **av;`                   |
 | `6-is_prime_number.c`    | `int is_prime_number(int n;`                           |
 
 ## Tasks :page_with_curl:
@@ -49,11 +49,8 @@ functions written in the project.
 * **4. It's not bragging if you can back it up**
   * C function that frees a 2 dimensional grid previously created by your alloc_grid function.
 
-* **5. Minimal Number of Coins for Change (Greedy Algorithm)**
-  * Program that prints the minimum number of coins to make change for an amount of money.
-    * Usage: `./change cents`
-    * where `cents` is the amount of cents you need to give back
-    * if the number of arguments passed to your program is not exactly `1`, print `Error`, followed by a new line, and return `1`
-    * you should use `atoi` to parse the parameter passed to your program
-    * If the number passed as the argument is negative, print `0`, followed by a new line
-    * You can use an unlimited number of coins of values `25`, `10`, `5`, `2`, and `1` `cent`
+* **5. It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe**
+  * C function that concatenates all the arguments of your program.
+    * Returns `NULL` if `ac == 0` or `av == NULL`
+    * Returns a pointer to a new string, or `NULL` if it fails
+    * Each argument should be followed by a `\n` in the new string
