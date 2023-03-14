@@ -11,12 +11,22 @@ This repo contains code written to understand `malloc` and `free`.
 * [main.h](./main.h): Header file containing prototypes for all
 functions written in the project.
 
+| File                     | Prototype                                              |
+| ------------------------ | --------------------------------                       |
+| `0-create_array.c`       | `char *create_array(unsigned int size, char c);`       |
+| `1-strdup.c`             | `char *_strdup(char *str);`                            |
+| `2-str_concat.c`         | `char *str_concat(char *s1, char *s2);`                |
+| `3-alloc_grid.c`         | `int **alloc_grid(int width, int height);`             |
+| `4-free_grid.c`          | `int **alloc_grid(int width, int height);`             |
+| `5-sqrt_recursion.c`     | `int _sqrt_recursion(int n);`                          |
+| `6-is_prime_number.c`    | `int is_prime_number(int n;`                           |
+
 ## Tasks :page_with_curl:
 
-* **0. It ain't what they call you, it's what you answer to**
-  * Program that prints its name, followed by a new line.
-    * If you rename the program, it will print the new name, without having to compile it again
-    * You should not remove the path before the name of the program
+* **0. Float like a butterfly, sting like a bee**
+  * Write a function that creates an array of chars, and initializes it with a specific `char`.
+    * Returns `NULL` if size = `0`
+    * Returns a pointer to the array, or `NULL` if it fails
 
 * **1. Silence is argument carried out by other means**
   * Program that prints the number of arguments passed to it.
