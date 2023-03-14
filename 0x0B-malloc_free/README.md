@@ -19,7 +19,7 @@ functions written in the project.
 | `3-alloc_grid.c`         | `int **alloc_grid(int width, int height);`             |
 | `4-free_grid.c`          | `int **alloc_grid(int width, int height);`             |
 | `100-argstostr.c`        | `char *argstostr(int ac, char **av;`                   |
-| `6-is_prime_number.c`    | `int is_prime_number(int n;`                           |
+| `101-strtow.c`           | `char **strtow(char *str);`                           |
 
 ## Tasks :page_with_curl:
 
@@ -54,3 +54,12 @@ functions written in the project.
     * Returns `NULL` if `ac == 0` or `av == NULL`
     * Returns a pointer to a new string, or `NULL` if it fails
     * Each argument should be followed by a `\n` in the new string
+
+* **6. I will show you how great I am**
+  * C function that splits a string into words.
+    * The function returns a pointer to an array of strings (words)
+    * Each element of this array should contain a single word, null-terminated
+    * The last element of the returned array should be `NULL`
+    * Words are separated by spaces
+    * Returns `NULL` if `str == NULL` or `str == ""`
+    * If your function fails, it should return `NULL`
