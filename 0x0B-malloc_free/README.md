@@ -46,12 +46,8 @@ functions written in the project.
     * The function should return `NULL` on failure
     * If `width` or `height` is `0` or negative, return `NULL`
 
-* **4. To infinity and beyond**
-  * Program that adds positive numbers.
-    * Print the result, followed by a new line
-    * If no number is passed to the program, print `0`, followed by a new line
-    * If one of the number contains symbols that are not digits, print `Error`, followed by a new line, and return `1`
-    * You can assume that numbers and the addition of all the numbers can be stored in an `int`
+* **4. It's not bragging if you can back it up**
+  * C function that frees a 2 dimensional grid previously created by your alloc_grid function.
 
 * **5. Minimal Number of Coins for Change (Greedy Algorithm)**
   * Program that prints the minimum number of coins to make change for an amount of money.
