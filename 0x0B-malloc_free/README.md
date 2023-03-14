@@ -34,10 +34,11 @@ functions written in the project.
     * Returns `NULL` if str = NULL
     * On success, the `_strdup` function returns a pointer to the duplicated string. It returns `NULL` if insufficient memory was available.
 
-* **2. The best argument against democracy is a five-minute conversation with the average voter**
-  * Program that prints all arguments it receives.
-    * All arguments should be printed, including the first one
-    * Only print one argument per line, ending with a new line
+* **2. He who is not courageous enough to take risks will accomplish nothing in life**
+  * C function that concatenates two strings.
+    * The returned pointer should point to a newly allocated space in memory which contains the contents of `s1`, followed by the contents of `s2`, and null terminated
+    * if `NULL` is passed, treat it as an empty string
+    * The function should return `NULL` on failure
  
 * **3. Neither irony nor sarcasm is argument**
   * Program that multiplies two numbers.
