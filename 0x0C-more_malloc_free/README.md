@@ -34,11 +34,12 @@ functions written in the project.
   * If `n` is greater or equal to the length of `s2` then use the entire string `s2`
   * If `NULL` is passed, treat it as an empty string
 
-* **2. He who is not courageous enough to take risks will accomplish nothing in life**
-  * C function that concatenates two strings.
-    * The returned pointer should point to a newly allocated space in memory which contains the contents of `s1`, followed by the contents of `s2`, and null terminated
-    * if `NULL` is passed, treat it as an empty string
-    * The function should return `NULL` on failure
+* **2. _calloc**
+  * C function that allocates memory for an array, using malloc.
+    * The `_calloc` function allocates memory for an array of `nmemb` elements of `size` bytes each and returns a pointer to the allocated memory.
+    * The memory is set to zero
+    * If `nmemb` or `size` is `0`, then `_calloc` returns `NULL`
+    * If `malloc` fails, then `_calloc` returns `NULL`
  
 * **3. If you even dream of beating me you'd better wake up and apologize**
   * C function that returns a pointer to a 2 dimensional array of integers.
@@ -54,13 +55,4 @@ functions written in the project.
     * Returns `NULL` if `ac == 0` or `av == NULL`
     * Returns a pointer to a new string, or `NULL` if it fails
     * Each argument should be followed by a `\n` in the new string
-
-* **6. I will show you how great I am**
-  * C function that splits a string into words.
-    * The function returns a pointer to an array of strings (words)
-    * Each element of this array should contain a single word, null-terminated
-    * The last element of the returned array should be `NULL`
-    * Words are separated by spaces
-    * Returns `NULL` if `str == NULL` or `str == ""`
-    * If your function fails, it should return `NULL`
 
