@@ -18,7 +18,6 @@ functions written in the project.
 | `2-calloc.c`             | `void *_calloc(unsigned int nmemb, unsigned int size);`                   |
 | `3-array_range.c`        | `int *array_range(int min, int max);`                                     |
 | `100-realloc.c`          | `void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size);`|
-| `100-argstostr.c`        | `char *argstostr(int ac, char **av;`                                      |
 
 ## Tasks :page_with_curl:
 
@@ -60,9 +59,12 @@ functions written in the project.
     * If `new_size` is equal to zero, and `ptr` is not `NULL`, then the call is equivalent to `free(ptr)`. Return `NULL`
     * Don’t forget to free `ptr` when it makes sense
 
-* **5. It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe**
-  * C function that concatenates all the arguments of your program.
-    * Returns `NULL` if `ac == 0` or `av == NULL`
-    * Returns a pointer to a new string, or `NULL` if it fails
-    * Each argument should be followed by a `\n` in the new string
+* **5. We must accept finite disappointment, but never lose infinite hope**
+  * Program that multiplies two positive numbers.
+    * Usage: `mul num1 num2`
+    * `num1` and `num2` will be passed in `base 10`
+    * Print the result, followed by a new line
+    * If the number of arguments is incorrect, print Error, followed by a new line, and exit with a status of `98`
+    * `num1` and `num2` should only be composed of digits. If not, print Error, followed by a new line, and exit with a status of 98
+
 
