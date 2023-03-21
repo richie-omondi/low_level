@@ -1,4 +1,4 @@
-# C - More malloc, free
+# C - Preprocessor
 
 This repo contains code written to understand the compilation process, preprocessor directives in C and macros.
 
