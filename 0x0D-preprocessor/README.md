@@ -7,12 +7,8 @@ This repo contains code written to understand the compilation process, preproces
 * **0. Object-like Macro**
   * Create a header file that defines a macro named `SIZE` as an abbreviation for the token `1024`.
 
-* **1. string_nconcat**
-  * C function that concatenates two strings.
-  * The returned pointer shall point to a newly allocated space in memory, which contains `s1`, followed by the first `n` bytes of `s2`, and null terminated
-  * If the function fails, it should return `NULL`
-  * If `n` is greater or equal to the length of `s2` then use the entire string `s2`
-  * If `NULL` is passed, treat it as an empty string
+* **1. Pi**
+  * Create a header file that defines a macro named `PI` as an abbreviation for the token `3.14159265359`.
 
 * **2. _calloc**
   * C function that allocates memory for an array, using malloc.
