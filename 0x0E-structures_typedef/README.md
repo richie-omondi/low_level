@@ -7,8 +7,11 @@ This repo contains code written to understand the structures in C
 * **0. Poppy**
   * Define a new `struct` dog.
 
-* **1. Pi**
-  * Create a header file that defines a macro named `PI` as an abbreviation for the token `3.14159265359`.
+* **1. A dog will teach you unconditional love. If you can have that in your life, things won't be too bad**
+  * Write a function that prints a struct dog
+    * Prototype: `void print_dog(struct dog *d)`;
+    * If an element of `d` is `NULL`, print `(nil)` instead of this element. (if `name` is `NULL`, print `Name: (nil)`)
+    * If `d` is `NULL` print nothing.
 
 * **2. File name**
   * Write a program that prints the name of the file it was compiled from, followed by a new line.
