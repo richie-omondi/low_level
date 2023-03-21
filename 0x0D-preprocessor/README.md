@@ -10,12 +10,8 @@ This repo contains code written to understand the compilation process, preproces
 * **1. Pi**
   * Create a header file that defines a macro named `PI` as an abbreviation for the token `3.14159265359`.
 
-* **2. _calloc**
-  * C function that allocates memory for an array, using malloc.
-    * The `_calloc` function allocates memory for an array of `nmemb` elements of `size` bytes each and returns a pointer to the allocated memory.
-    * The memory is set to zero
-    * If `nmemb` or `size` is `0`, then `_calloc` returns `NULL`
-    * If `malloc` fails, then `_calloc` returns `NULL`
+* **2. File name*
+  * Write a program that prints the name of the file it was compiled from, followed by a new line.
  
 * **3. array_range**
   * C function that creates an array of integers.
