@@ -10,7 +10,7 @@ This repo contains code written to understand the compilation process, preproces
 * **1. Pi**
   * Create a header file that defines a macro named `PI` as an abbreviation for the token `3.14159265359`.
 
-* **2. File name*
+* **2. File name**
   * Write a program that prints the name of the file it was compiled from, followed by a new line.
  
 * **3. array_range**
