@@ -16,13 +16,20 @@ This repo contains code written to understand the structures in C
     * If an element of `d` is `NULL`, print `(nil)` instead of this element. (if `name` is `NULL`, print `Name: (nil)`)
     * If `d` is `NULL` print nothing.
  
-* **3. Function-like Macro**
-  * Write a function-like macro `ABS(x)` that computes the absolute value of a number `x`.
+* **3. Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read**
+  * Define a new type dog_t as a new name for the type struct dog.
 
-* **4. SUM**
-  * Write a function-like macro `SUM(x, y)` that computes the sum of the numbers `x` and `y`.
+* **4. A door is what a dog is perpetually on the wrong side of**
+  * Write a function that creates a new dog.
+    * Prototype: `dog_t *new_dog(char *name, float age, char *owner)`;
+    * You have to store a copy of `name` and `owner`
+    * Return `NULL` if the function fails
 
-**Note**:
-Always use the guards `#ifndef FILE_NAME_H` followed by `#define FILE_NAME_H` at the beginning of all header files and end with `#endif` to prevent compilation errors.
+* **5. A door is what a dog is perpetually on the wrong side of**
+  * Write a function that creates a new dog.
+    * Prototype: `dog_t *new_dog(char *name, float age, char *owner)`;
+    * You have to store a copy of `name` and `owner`
+    * Return `NULL` if the function fails
+
 
 
