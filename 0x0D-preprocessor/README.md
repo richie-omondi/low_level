@@ -13,12 +13,8 @@ This repo contains code written to understand the compilation process, preproces
 * **2. File name**
   * Write a program that prints the name of the file it was compiled from, followed by a new line.
  
-* **3. array_range**
-  * C function that creates an array of integers.
-  * The array created should contain all the values from `min` (included) to `max` (included), ordered from `min` to `max`
-  * Return: the pointer to the newly created array
-  * If min > max, return `NULL`
-  * If `malloc` fails, return `NULL`
+* **3. Function-like Macro**
+  * Write a function-like macro `ABS(x)` that computes the absolute value of a number `x`.
 
 * **4. _realloc**
   * Write a function that reallocates a memory block `using` malloc and `free`
