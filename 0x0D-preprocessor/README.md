@@ -5,7 +5,7 @@ This repo contains code written to understand the compilation process, preproces
 ## Tasks :page_with_curl:
 
 * **0. Object-like Macro**
-  * Create a header file that defines a macro named SIZE as an abbreviation for the token 1024.
+  * Create a header file that defines a macro named `SIZE` as an abbreviation for the token `1024`.
 
 * **1. string_nconcat**
   * C function that concatenates two strings.
