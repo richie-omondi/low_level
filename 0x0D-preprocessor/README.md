@@ -19,6 +19,6 @@ This repo contains code written to understand the compilation process, preproces
 * **4. SUM**
   * Write a function-like macro `SUM(x, y)` that computes the sum of the numbers `x` and `y`.
 
-**Note**
+**Note**:
 Always use the guards `#ifndef FILE_NAME_H` followed by `#define FILE_NAME_H` at the beginning of all header files and end with `#endif` to prevent compilation errors.
 
