@@ -3,7 +3,7 @@
 
 /*
  * Desc: Header file containing all structures and
- *       prototypes used by the 3-main.c program.
+ * prototypes used by the 3-main.c program.
  */
 
 /**
