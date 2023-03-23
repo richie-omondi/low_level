@@ -3,7 +3,7 @@
 
 /*
  * Desc: Header file containing prototypes for all functions
- *       used in the 0x0E-function_pointers directory.
+ * used in the 0x0F-function_pointers directory.
  */
 
 #include <stdlib.h>
