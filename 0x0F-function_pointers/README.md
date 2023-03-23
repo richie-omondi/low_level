@@ -22,13 +22,11 @@ functions written in the project.
 * **0. What's my name**
   * C function that prints a name
 
-* **1. string_nconcat**
-  * C function that concatenates two strings.
-  * The returned pointer shall point to a newly allocated space in memory, which contains `s1`, followed by the first `n` bytes of `s2`, and null terminated
-  * If the function fails, it should return `NULL`
-  * If `n` is greater or equal to the length of `s2` then use the entire string `s2`
-  * If `NULL` is passed, treat it as an empty string
-
+* **1. If you spend too much time thinking about a thing, you'll never get it done**
+  * Write a function that executes a function given as a parameter on each element of an array.
+    * where size is the size of the array
+    * and action is a pointer to the function you need to use
+  
 * **2. _calloc**
   * C function that allocates memory for an array, using malloc.
     * The `_calloc` function allocates memory for an array of `nmemb` elements of `size` bytes each and returns a pointer to the allocated memory.
