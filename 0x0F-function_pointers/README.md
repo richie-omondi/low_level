@@ -108,14 +108,13 @@ functions written in the project.
     You are not allowed to directly call `op_add, op_sub, op_mul, op_div or op_mod` from the main function
     You have to use `atoi` to convert arguments to `int`
 
-* **4. _realloc**
-  * Write a function that reallocates a memory block `using` malloc and `free`
-    * where `ptr` is a pointer to the memory previously allocated with a call to `malloc: malloc(old_size)`
-    * `old_size` is the size, in bytes, of the allocated space for `ptr`
-    * and `new_size` is the new size, in bytes of the new memory block
-    * The contents will be copied to the newly allocated space, in the range from the start of `ptr` up to the minimum of the old and new sizes
-    * If `new_size > old_size`, the “added” memory should not be initialized
-    * If `new_size == old_size` do not do anything and return `ptr`
-    * If `ptr` is `NULL`, then the call is equivalent to `malloc(new_size)`, for all values of `old_size` and `new_size`
-    * If `new_size` is equal to zero, and `ptr` is not `NULL`, then the call is equivalent to `free(ptr)`. Return `NULL`
-    * Don’t forget to free `ptr` when it makes sense
+* **4. Most hackers are young because young people tend to be adaptable. As long as you remain adaptable, you can always be a good hacker**
+  * Write a program that prints the opcodes of its own main function.
+
+    Usage: `./main number_of_bytes`
+    Output format:
+    the opcodes should be printed in hexadecimal, lowercase
+    If the number of argument is not the correct one, print `Error`, followed by a new line, and exit with the status `1`
+    If the number of bytes is negative, print `Error`, followed by a new line, and exit with the status `2`
+    You do not have to compile with any flags
+    Note: if you want to translate your opcodes to assembly instructions, you can use, for instance udcli.
