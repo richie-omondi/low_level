@@ -24,15 +24,16 @@ functions written in the project.
 
 * **1. If you spend too much time thinking about a thing, you'll never get it done**
   * Write a function that executes a function given as a parameter on each element of an array.
-    * where size is the size of the array
-    * and action is a pointer to the function you need to use
+    * where `size` is the size of the array
+    * and `action` is a pointer to the function you need to use
   
-* **2. _calloc**
-  * C function that allocates memory for an array, using malloc.
-    * The `_calloc` function allocates memory for an array of `nmemb` elements of `size` bytes each and returns a pointer to the allocated memory.
-    * The memory is set to zero
-    * If `nmemb` or `size` is `0`, then `_calloc` returns `NULL`
-    * If `malloc` fails, then `_calloc` returns `NULL`
+* **2. To hell with circumstances; I create opportunities**
+  * Write a function that searches for an integer.
+  * where `size` is the number of elements in the array array
+  * `cmp` is a pointer to the function to be used to compare values
+  * `int_index` returns the index of the first element for which the `cmp` function does not return 0
+  * If no element matches, return `-1`
+  * If `size <= 0`, return `-1`
  
 * **3. array_range**
   * C function that creates an array of integers.
