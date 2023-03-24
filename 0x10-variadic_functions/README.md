@@ -31,14 +31,15 @@ functions written in the project.
     * If separator is `NULL`, don’t print it
     * Print a new line at the end of your function
   
-* **2. To hell with circumstances; I create opportunities**
-  * Write a function that searches for an integer.
-  * where `size` is the number of elements in the array array
-  * `cmp` is a pointer to the function to be used to compare values
-  * `int_index` returns the index of the first element for which the `cmp` function does not return 0
-  * If no element matches, return `-1`
-  * If `size <= 0`, return `-1`
- 
+* **2. One woman's constant is another woman's variable**
+  * Write a function that prints strings, followed by a new line.
+    * where `separator` is the string to be printed between the strings
+    * and `n` is the number of strings passed to the function
+    * You are allowed to use `printf`
+    * If separator is `NULL`, don’t print it
+    * If one of the string is `NULL`, print (`nil`) instead
+    * Print a new line at the end of your function
+   
 * **3. A goal is not always meant to be reached, it often serves simply as something to aim at**
   * Write a program that performs simple operations.
     * Usage: `calc num1 operator num2`
@@ -112,14 +113,5 @@ functions written in the project.
     You are not allowed to directly call `op_add, op_sub, op_mul, op_div or op_mod` from the main function
     You have to use `atoi` to convert arguments to `int`
 
-* **4. Most hackers are young because young people tend to be adaptable. As long as you remain adaptable, you can always be a good hacker**
-  * Write a program that prints the opcodes of its own main function.
 
-   * Usage: `./main number_of_bytes`
-   Output format:
-   the opcodes should be printed in hexadecimal, lowercase
-   If the number of argument is not the correct one, print `Error`, followed by a new line, and exit with the status `1`
-   If the number of bytes is negative, print `Error`, followed by a new line, and exit with the status `2`
-   You do not have to compile with any flags
-   Note: if you want to translate your opcodes to assembly instructions, you can use, for instance udcli.
 
