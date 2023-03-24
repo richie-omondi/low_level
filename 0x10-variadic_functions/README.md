@@ -23,10 +23,13 @@ functions written in the project.
 * **0. Beauty is variable, ugliness is constant**
   * C function that returns the sum of all parameters. If `n=0`, return `0`
 
-* **1. If you spend too much time thinking about a thing, you'll never get it done**
-  * Write a function that executes a function given as a parameter on each element of an array.
-    * where `size` is the size of the array
-    * and `action` is a pointer to the function you need to use
+* **1. To be is to be the value of a variable*
+  * Write a function that prints numbers, followed by a new line.
+    * where `separator` is the string to be printed between numbers
+    * and `n` is the number of integers passed to the function
+    * You are allowed to use `printf`
+    * If separator is `NULL`, don’t print it
+    * Print a new line at the end of your function
   
 * **2. To hell with circumstances; I create opportunities**
   * Write a function that searches for an integer.
