@@ -21,7 +21,7 @@ functions written in the project.
 ## Tasks :page_with_curl:
 
 * **0. Beauty is variable, ugliness is constant**
-  * C function that returns the sum of all parameters.
+  * C function that returns the sum of all parameters. If `n=0`, return `0`
 
 * **1. If you spend too much time thinking about a thing, you'll never get it done**
   * Write a function that executes a function given as a parameter on each element of an array.
