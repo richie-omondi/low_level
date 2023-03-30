@@ -2,6 +2,50 @@
 
 This repo contains code written to understand `argc` and `argv`.
 
+When a program gets executed, the user can specify the space-separated strings called command-line arguments. These arguments are made available in the program’s `main` function and can be parsed as individual null-terminated strings. To access the arguments, we should include parameters as `int argc`, `char *argv[]`, representing the number of arguments passed and the array of strings containing command-line arguments. The first string in the array is the program name itself as per the convention; thus, the number of arguments `argc` includes the program name. We can print every command-line argument with simple iteration through `argv` array, as demonstrated in the following example.
+
+```
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(int argc, char *argv[]) {
+
+    for (int i = 0; i < argc; i++)
+        printf("argv[%d] = %s\n", i, argv[i]);
+
+    exit(EXIT_SUCCESS);
+}
+```
+
+Sample command:
+
+`./program_name hello there`
+
+Output:
+
+```
+argv[0] = ./program
+argv[1] = hello
+argv[2] = there
+```
+
+`argv` array of null-terminated strings is terminated with a `NULL` pointer to denote the last argument. Thus, we can utilize this feature to implement the argument printing loop by evaluating the `argv` pointer itself and incrementing it until equals `NULL`. Note that it’s better to make a separate `char*` pointer for the loop to preserve the array’s original address in case it’s needed later in the program. The following sample code assumes the same command is executed as in the previous example.
+
+```
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(int argc, char *argv[]) {
+
+    char **ptr;
+    for (ptr = argv; *ptr != NULL; ptr++)
+        printf("%s\n", *ptr);
+
+    exit(EXIT_SUCCESS);
+}
+```
+
+
 ## Helper File :raised_hands:
 
 * [_putchar.c](./_putchar.c): C function that writes a character to `stdout`.
