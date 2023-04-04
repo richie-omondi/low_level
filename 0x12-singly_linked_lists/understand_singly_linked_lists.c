@@ -15,6 +15,7 @@ int main(int argc, const char **argv)
 {	
 	nodePtr first = NULL; //pointer to the first node in the list which has nothing ie the pointer has nothing
 	
+	//before you point to the next node you need to create space on the heap that returns a pointer to that space that stores the address of that next node
 	first = malloc(sizeof(node));
 
 	//think of the arrows as pointing to the sections of the node
@@ -30,7 +31,6 @@ int main(int argc, const char **argv)
 
 	printf("Hello, Kenya!\n");
 	
-	//before you point to the next node you need to create space on the heap that returns a pointer to that space that stores the address of hat next node
 	nodePtr temp; 
 	temp = malloc(sizeof(node));
 	temp->next = first;
