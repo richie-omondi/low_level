@@ -3,7 +3,10 @@
 >A linked list is a linear collection of data elements whose order is not given by their physical placement in memory. Instead, each element points to the next. It is a data structure consisting of a collection of nodes which together represent a sequence. In its most basic form, each node contains: data, and a reference (in other words, a link) to the next node in the sequence.
 #
 >Singly linked lists contain nodes which have a data field as well as 'next' field, which points to the next node in line of nodes. Operations that can be performed on singly linked lists include insertion, deletion and traversal.
+#
 >The head of a linked list is a reference to the first node of the list1234. It can be a variable that stores the address of the first node, or a dummy node that points to the first node. The head is used to access the elements of the list and perform operations on it. The head itself does not contain any data, only a link to the next node. If the list is empty, the head is null.
+#
+>The tail of a linked list is a reference to the last node of the list12345. It can be a variable that stores the address of the last node, or a node that points to null. The tail is used to add elements to the end of the list and perform operations on it. The tail itself may contain data and a link to the previous node (if it is a doubly linked list). If the list is empty, the tail is null.
 
 Some implementations pass a pointer to pointer parameter to allow changing the head pointer directly instead of returning the new one. Thus you could write:
 
