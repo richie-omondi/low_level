@@ -28,10 +28,8 @@ and functions written for the project.
 * **4. 100**
   * [4-clear_bit.c](./4-clear_bit.c): C function that sets the value of a bit to `0` at a given index.
 
-* **5. Free**
-  * [5-free_listint2.c](./5-free_listint2.c): C function that frees a
-  `listint_t` linked list.
-    * Sets the `head` to `NULL`.
+* **5. 101**
+  * [5-flip_bits.c](./5-flip_bits.c): Write a function that returns the number of bits you would need to flip to get from one number to another.
 
 * **6. Pop**
   * [6-pop_listint.c](./6-pop_listint.c): C function that deletes the head node of
