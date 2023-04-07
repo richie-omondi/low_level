@@ -19,11 +19,8 @@ and functions written for the project.
 * **1. 1**
   * [1-print_binary.c](./1-print_binary.c): C function that prints the binary representation of a number.
 
-* **2. Add node**
-  * [2-add_nodeint.c](./2-add_nodeint.c): C function that adds a new node at
-  the beginning of a `listint_t` linked list.
-    * If the function fails - returns `NULL`.
-    * Otherwise - returns the address of the new element.
+* **2. 10**
+  * [2-get_bit.c](./2-get_bit.c): C function that returns the value of a bit at a given index.
 
 * **3. Add node at the end**
   * [3-add_nodeint_end.c](./3-add_nodeint_end.c): C function that adds a new node
