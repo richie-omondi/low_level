@@ -16,9 +16,8 @@ and functions written for the project.
     there is one or more chars in the string `b` that is not `0` or `1`
     `b` is `NULL`
 
-* **1. List length**
-  * [1-listint_len.c](./1-listint_len.c): C function that returns the number
-  of elements in a `listint_t` linked list.
+* **1. 1**
+  * [1-print_binary.c](./1-print_binary.c): C function that prints the binary representation of a number.
 
 * **2. Add node**
   * [2-add_nodeint.c](./2-add_nodeint.c): C function that adds a new node at
