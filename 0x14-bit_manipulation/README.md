@@ -25,9 +25,8 @@ and functions written for the project.
 * **3. 11**
   * [3-set_bit.c](./3-set_bit.c): C function that sets the value of a bit to `1` at a given index.
 
-* **4. Free list**
-  * [4-free_listint.c](./4-free_listint.c): C function that frees a `listint_t`
-  linked list.
+* **4. 100**
+  * [4-clear_bit.c](./4-clear_bit.c): C function that sets the value of a bit to `0` at a given index.
 
 * **5. Free**
   * [5-free_listint2.c](./5-free_listint2.c): C function that frees a
