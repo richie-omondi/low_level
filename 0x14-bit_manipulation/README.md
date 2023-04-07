@@ -31,11 +31,8 @@ and functions written for the project.
 * **5. 101**
   * [5-flip_bits.c](./5-flip_bits.c): Write a function that returns the number of bits you would need to flip to get from one number to another.
 
-* **6. Pop**
-  * [6-pop_listint.c](./6-pop_listint.c): C function that deletes the head node of
-  a `listint_t` linked list.
-    * If the linked list is empty - returns `0`.
-    * Otherwise - returns the head node's data (`n`).
+* **6. Endianness**
+  * [100-get_endianness.c](./100-get_endianness.c): C function that checks the endianness.
 
 * **7. Get node at index**
   * [7-get_nodeint.c](./7-get_nodeint.c): C function that locates a given node
