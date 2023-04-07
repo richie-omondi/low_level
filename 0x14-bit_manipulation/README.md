@@ -22,11 +22,8 @@ and functions written for the project.
 * **2. 10**
   * [2-get_bit.c](./2-get_bit.c): C function that returns the value of a bit at a given index.
 
-* **3. Add node at the end**
-  * [3-add_nodeint_end.c](./3-add_nodeint_end.c): C function that adds a new node
-  at the end of a `listint_t` linked list.
-    * If the function fails - returns `NULL`.
-    * Otherwise - returns the address of the new element.
+* **3. 11**
+  * [3-set_bit.c](./3-set_bit.c): C function that sets the value of a bit to `1` at a given index.
 
 * **4. Free list**
   * [4-free_listint.c](./4-free_listint.c): C function that frees a `listint_t`
