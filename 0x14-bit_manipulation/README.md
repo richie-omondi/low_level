@@ -10,9 +10,11 @@ and functions written for the project.
 ## Tasks :page_with_curl:
 
 * **0. Print list**
-  * [0-print_listint.c](./0-print_listint.c): C function that prints all the elements
-  of a `listint_t` linked list.
-    * Returns the number of nodes in the `listint_t` list.
+  * [0-binary_to_uint.c](./0-binary_to_uint.c): Write a function that converts a binary number to an `unsigned int`.
+    * where `b` is pointing to a string of `0` and `1` chars
+    Return: the converted number, or `0` if
+    there is one or more chars in the string `b` that is not `0` or `1`
+    `b` is `NULL`
 
 * **1. List length**
   * [1-listint_len.c](./1-listint_len.c): C function that returns the number
