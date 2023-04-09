@@ -33,6 +33,7 @@ and functions written for the project.
 
 * **6. Endianness**
   * [100-get_endianness.c](./100-get_endianness.c): C function that checks the endianness.
+  * Link to article: https://www.freecodecamp.org/news/what-is-endianness-big-endian-vs-little-endian/
 
 * **7. Get node at index**
   * [7-get_nodeint.c](./7-get_nodeint.c): C function that locates a given node
