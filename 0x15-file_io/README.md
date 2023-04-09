@@ -17,8 +17,14 @@ and functions written for the project.
     * if filename is `NULL` return `0`
     * if write fails or does not write the expected amount of bytes, return `0`
 
-* **1. 1**
-  * [1-print_binary.c](./1-print_binary.c): C function that prints the binary representation of a number.
+* **1. Under the snow**
+  * [1-create_file.c](./1-create_file.c): Create a function that creates a file.
+    * where `filename` is the name of the file to create and `text_content` is a `NULL` terminated string to write to the file
+    * Returns: `1` on success, `-1` on failure (file can not be created, file can not be written, write “fails”, etc…)
+    * The created file must have those permissions: `rw-------.` If the file already exists, do not change the permissions.
+    * if the file already exists, truncate it
+    * if filename is `NULL` return `-1`
+    * if `text_content` is `NULL` create an empty file
 
 * **2. 10**
   * [2-get_bit.c](./2-get_bit.c): C function that returns the value of a bit at a given index.
