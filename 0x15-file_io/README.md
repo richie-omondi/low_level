@@ -1,4 +1,4 @@
-# C - Bit Manipulation
+# C - File I/O
 
 In this project, I practiced working with file handing, file manipulation, file descriptors and system calls.
 
