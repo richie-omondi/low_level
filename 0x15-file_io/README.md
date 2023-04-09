@@ -28,16 +28,3 @@ and functions written for the project.
 
 * **4. 100**
   * [4-clear_bit.c](./4-clear_bit.c): C function that sets the value of a bit to `0` at a given index.
-
-* **5. 101**
-  * [5-flip_bits.c](./5-flip_bits.c): Write a function that returns the number of bits you would need to flip to get from one number to another.
-
-* **6. Endianness**
-  * [100-get_endianness.c](./100-get_endianness.c): C function that checks the endianness.
-
-* **7. Get node at index**
-  * [7-get_nodeint.c](./7-get_nodeint.c): C function that locates a given node
-  of a `listint_t` linked list.
-    * If the node does not exist - returns `NULL`.
-    * Otherwise - returns the located node.
-
