@@ -1,6 +1,6 @@
 # C - Bit Manipulation
 
-In this project, I practiced working with bits, bitwise operators and bit manipulations.
+In this project, I practiced working with file handing, file manipulation, file descriptors and system calls.
 
 ## Header File :file_folder:
 
