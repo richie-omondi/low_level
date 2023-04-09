@@ -67,3 +67,7 @@ and functions written for the project.
     * You are allowed to have as many functions as you want in your source file
     * `man elf, readelf`
     * Link to article: https://www.opensourceforu.com/2020/02/understanding-elf-the-executable-and-linkable-format/
+    
+An ELF header is a small block of data that describes how the rest of the file is organized. It is always located at the beginning of an ELF file and contains information about the file’s organization, such as its size, byte order, and machine architecture.
+
+You might need to look at an ELF header when you want to know more about an executable or object file, such as its size, byte order, machine architecture, and other details.
