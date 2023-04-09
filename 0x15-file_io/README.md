@@ -66,3 +66,4 @@ and functions written for the project.
     * You are allowed to use `read` a maximum of 2 times at runtime
     * You are allowed to have as many functions as you want in your source file
     * `man elf, readelf`
+    * Link to article: https://www.opensourceforu.com/2020/02/understanding-elf-the-executable-and-linkable-format/
