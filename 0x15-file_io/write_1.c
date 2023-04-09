@@ -32,3 +32,4 @@ int main()
 	/* end of processing */
 	fclose(fp);
 	return 0;
+}
