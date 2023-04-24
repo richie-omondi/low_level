@@ -2,6 +2,10 @@
 
 This repo contains code written to understand `malloc` and `free`.
 
+### On Buffer Size
+
+The buffer size of 1024 bytes is a common default size for reading input from a file or console. It’s not too small that it would cause performance issues by requiring too many reads, but it’s also not too large that it would waste memory. However, this size can be adjusted based on your specific use case.
+
 ## Helper File :raised_hands:
 
 * [_putchar.c](./_putchar.c): C function that writes a character to `stdout`.
