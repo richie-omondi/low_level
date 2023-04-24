@@ -6,6 +6,8 @@ This repo contains code written to understand `malloc` and `free`.
 
 The buffer size of 1024 bytes is a common default size for reading input from a file or console. It’s not too small that it would cause performance issues by requiring too many reads, but it’s also not too large that it would waste memory. However, this size can be adjusted based on your specific use case.
 
+Double buffering is a technique used in computer graphics and multimedia applications to improve performance by using two buffers to store data instead of one1. In C programming language, double buffering can be used to speed up input/output operations by using two buffers2. One buffer is used by the driver or controller to store data while waiting for it to be taken by higher level of the hierarchy. Other buffer is used to store data from the lower level module3.
+
 ## Helper File :raised_hands:
 
 * [_putchar.c](./_putchar.c): C function that writes a character to `stdout`.
