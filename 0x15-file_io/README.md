@@ -2,6 +2,8 @@
 
 In this project, I practiced working with file handing, file manipulation, file descriptors and system calls.
 
+`read.c`, `filename.txt` and `write.c` are functions I personally wrote to better understand `read()` and `write()` functions.
+
 ## Header File :file_folder:
 
 * [main.h](./main.h): Header file containing definitions and prototypes for all types and functions written for the project.
