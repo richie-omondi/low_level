@@ -98,6 +98,7 @@ types and functions written for the project.
   * [100-first.c](./100-first.c): C function that prints `You're beat! and
   yet, you must allow,\nI bore my house upon my back!\n` before the `main`
   function is executed.
+
     ![image](https://github.com/richie-omondi/alx-low_level_programming/assets/69873039/cfff66c5-0051-45de-95be-2a51678d91c3)
 
 
