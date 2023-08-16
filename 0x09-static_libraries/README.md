@@ -17,6 +17,8 @@ https://www.youtube.com/watch?v=eW5he5uFBNM
  - We can have `.exe` files that link to several functions in a separate library (or libraries) meaning we don't have large `.exe` files. Dynamic linking stores the address of these functions in the `.exe` rather than the compiled function.
  - No need to recompile the `.exe` whenever we change a function in a library.
 
+To find out more on static functions: https://www.geeksforgeeks.org/what-are-static-functions-in-c/
+
 ## Tests :heavy_check_mark:
 
 ## Tasks :page_with_curl:
