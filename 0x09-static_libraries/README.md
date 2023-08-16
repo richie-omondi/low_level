@@ -2,6 +2,8 @@
 
 This repo contains a static library with object files. These object files contain functions, variables and source code as listed below.
 
+For more info, visit this link: https://www.howtogeek.com/427086/how-to-use-linuxs-ar-command-to-create-static-libraries/
+
 ## Tests :heavy_check_mark:
 
 ## Tasks :page_with_curl:
