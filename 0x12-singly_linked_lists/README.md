@@ -99,6 +99,9 @@ types and functions written for the project.
   yet, you must allow,\nI bore my house upon my back!\n` before the `main`
   function is executed.
 
+    ![image](https://github.com/richie-omondi/alx-low_level_programming/assets/69873039/cfff66c5-0051-45de-95be-2a51678d91c3)
+
+
 * **6. Real programmers can write assembly code in any language**
   * [101-hello_holberton.asm](./101-hello_holberton.asm): 64-but assembly program
   that prints `Hello, Holberton` followed by a new line using only the
