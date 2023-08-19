@@ -68,5 +68,6 @@ functions written in the project.
 
 * **11. Don't hate the hacker, hate the code**
   * [101-keygen.c](./101-keygen.c): Create a program that generates random valid passwords for the program `101-crackme`.
+  * More info can be found here: https://github.com/alx-tools/0x04.c
 
 
