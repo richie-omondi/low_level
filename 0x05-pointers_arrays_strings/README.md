@@ -67,7 +67,7 @@ functions written in the project.
   * Use the `-fsanitize=signed-integer-overflow` `gcc` flag to compile your code..
 
 * **11. Don't hate the hacker, hate the code**
-  * [101-keygen.c](./101-keygen.c): Create a program that generates random valid passwords for the program `101-crackme`.
+  * [101-keygen.c](./101-keygen.c): Create a program that generates random valid passwords for the program `101-crackme` (Crackme1).
   * More info can be found here: https://github.com/alx-tools/0x04.c
 
 
