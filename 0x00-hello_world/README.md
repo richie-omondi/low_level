@@ -26,6 +26,8 @@ Within the scope of our example, `main.c` is being compiled without any addition
 
 ![image](https://github.com/richie-omondi/alx-low_level_programming/assets/69873039/256a4e01-a5d8-4ebd-9f75-34acd0b8b7b0)
 
+ This link contains important `gcc` flags: https://linuxhandbook.com/gcc-flags/
+
 This folder contains `Bash` scripts and `C`code written to implement the following:
 
 ## Scripts :page_with_curl:
