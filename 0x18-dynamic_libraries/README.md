@@ -1,5 +1,7 @@
 # C - Dynamic libraries
 
+For more info on how to create and work with dynamic libraries: https://medium.com/@bdov_/https-medium-com-bdov-c-dynamic-libraries-what-why-and-how-66cf777019a7
+
 This repo contains a dynamic library with object files. These object files contain functions, variables, and source code as listed below.
 
 ## Tests :heavy_check_mark:
