@@ -1,6 +1,30 @@
 # 0x00. C - Hello, World
 
-For more info on the C compilation process, visit these links: https://medium.com/@bdov_/what-happens-when-you-type-gcc-main-c-a4454564e96d
+## Notes
+
+Example program:
+
+![image](https://github.com/richie-omondi/alx-low_level_programming/assets/69873039/e40f7999-fe3d-410b-bc88-f75dd29d2e82)
+
+
+The 4 main steps are:
+ * Pre-processing - We can view the results of the preprocessor by running `gcc` with the option `-E`, which suppresses the compilation process after this first step.
+
+![image](https://github.com/richie-omondi/alx-low_level_programming/assets/69873039/767c2746-405f-46e9-b910-d0ab1de93c4f)
+
+ * Compilation - converts source code to assembly/machine code.  Assembly code, or assembly language (often abbreviated asm), is a high-level programming language that corresponds programming code with the given architecture’s machine code instructions. To halt the compiling process at this second step, we can run our example file `main.c` with the `gcc` option `-c`. Then, we can view the resulting, mostly unreadable mess of assembly code.
+
+![image](https://github.com/richie-omondi/alx-low_level_programming/assets/69873039/afaacbb4-e7ac-4052-98d8-f886dbda0e79)
+
+ * Assembly - converts assembly/machine code to object code.  Where assembly code represents a correspondence between program and machine code, object code represents pure machine code (ie. binary). Our `main.c` file’s assembly code wasn’t unreadable enough for me. Let’s run `gcc` with the `-S` option to halt the compiler at the assembly step
+
+ ![image](https://github.com/richie-omondi/alx-low_level_programming/assets/69873039/b0217e3e-c9cb-4def-b2f3-94a5cacb9ba8)
+
+ * Linking. Preprocessed, compiled, and assembled, the now-object code is finally ready to be converted into an executable. To do so, the compiler takes one last step and sends the code to the linker, which takes all object codes and libraries passed to it and links them together into a single executable file.
+
+Within the scope of our example, `main.c` is being compiled without any additional links or files, so the program will be converted into an executable by itself. Alas, for the grand finale, let’s run the full shebang (no computing reference intended here), `gcc main.c` without any options, to preprocess, compile, assemble, and link the program all at once.
+
+![image](https://github.com/richie-omondi/alx-low_level_programming/assets/69873039/256a4e01-a5d8-4ebd-9f75-34acd0b8b7b0)
 
 This folder contains Bash scripts and C code written to implement the following:
 
