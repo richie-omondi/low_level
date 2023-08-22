@@ -45,3 +45,9 @@ This repo contains a dynamic library with object files. These object files conta
 
 ![image](https://github.com/richie-omondi/alx-low_level_programming/assets/69873039/018ba4ae-4512-4aff-996d-46c03343ad7c)
 
+![image](https://github.com/richie-omondi/alx-low_level_programming/assets/69873039/edb29370-488a-4e66-a714-e984877930f9)
+
+![image](https://github.com/richie-omondi/alx-low_level_programming/assets/69873039/ace34de7-b7b9-4810-8772-f7b47d0628a4)
+
+
+
