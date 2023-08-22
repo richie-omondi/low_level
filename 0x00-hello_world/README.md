@@ -1,5 +1,7 @@
 # 0x00. C - Hello, World
 
+For more info on the C compilation process, visit these links: https://medium.com/@bdov_/what-happens-when-you-type-gcc-main-c-a4454564e96d
+
 This folder contains Bash scripts and C code written to implement the following:
 
 ## Scripts :page_with_curl:
