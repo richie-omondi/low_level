@@ -1,13 +1,13 @@
 # C - Dynamic libraries
 
-This repo contains a dynamic library with object files. These object files contain functions, variables and source code as listed below.
+This repo contains a dynamic library with object files. These object files contain functions, variables, and source code as listed below.
 
 ## Tests :heavy_check_mark:
 
 ## Tasks :page_with_curl:
 
 * **0. A library is not a luxury but one of the necessities of life**
-  * [libmy.a](./libmy.a): C Dynamic library containing all the functions
+  * [libdynamic.so](./libdynamic.so): C Dynamic library containing all the functions
   listed below:
     * `int _putchar(char c);`
     * `int _islower(int c);`
