@@ -49,5 +49,7 @@ This repo contains a dynamic library with object files. These object files conta
 
 ![image](https://github.com/richie-omondi/alx-low_level_programming/assets/69873039/ace34de7-b7b9-4810-8772-f7b47d0628a4)
 
+Link to the copy of the program: https://github.com/alx-tools/0x18.c
+
 
 
