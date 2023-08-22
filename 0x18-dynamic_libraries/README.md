@@ -35,6 +35,13 @@ This repo contains a dynamic library with object files. These object files conta
   * [main.h](./main.h): Header file containing the prototypes of all functions
   included in `libdynamic.so`.
 
+![image](https://github.com/richie-omondi/alx-low_level_programming/assets/69873039/93dfe546-7e8f-41ed-8dcb-ace3cd72f8cb)
+
+![image](https://github.com/richie-omondi/alx-low_level_programming/assets/69873039/18a17655-a30d-411f-8882-076a7a6e14de)
+
 * **1. Without libraries what have we? We have no past and no future**
   * [create_dynamic_lib.sh](./create_dynamic_lib.sh): `Bash` script that creates a dynamic
   library called `liball.so` from all the `.c` files in the current directory.
+
+![image](https://github.com/richie-omondi/alx-low_level_programming/assets/69873039/018ba4ae-4512-4aff-996d-46c03343ad7c)
+
