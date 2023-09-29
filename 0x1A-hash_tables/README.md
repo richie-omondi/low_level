@@ -85,6 +85,7 @@
 
 - Prototype: `unsigned long int hash_djb2(const unsigned char *str)`;
 - You are allowed to copy and paste the function from [this page](https://alx-intranet.hbtn.io/rltoken/3B7lCUBD4yZh66Pbl2KcEQ)
+- [Why are 5381 and 33 are used in the djb2 algorithm?](https://saturncloud.io/blog/why-are-5381-and-33-so-important-in-the-djb2-algorithm/#:~:text=In%20conclusion%2C%20the%20numbers%205381%20and%2033%20hold,data%20in%20applications%20that%20rely%20on%20hash%20functions.) 
 
 ```
     julien@ubuntu:~/0x1A. Hash tables$ cat 1-djb2.c 
