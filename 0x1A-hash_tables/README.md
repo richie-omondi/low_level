@@ -14,6 +14,11 @@
 
 * Note that all dictionaries are not implemented using hash tables and there is a difference between a dictionary and a hash table. [Read more here](https://alx-intranet.hbtn.io/rltoken/6wE80OFPwL-As1zGh2iMFg) (not mandatory).
 
+### Collision Resolution
+
+- [Implementation of a hash table using separate chaining in C/C++](https://www.geeksforgeeks.org/implementation-of-hash-table-in-c-using-separate-chaining/)
+- [Collision Resolution](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/HashCImproved.html)
+
 ``` MANDATORY ```
 
 # `0-hash_table_create.c`
