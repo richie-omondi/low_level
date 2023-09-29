@@ -3,6 +3,7 @@
 > # Resources
 
 - [What is a HashTable Data Structure - Introduction to Hash Tables , Part 0](https://alx-intranet.hbtn.io/rltoken/IQVfdxJlS6jhAgcuUoCseg)
+- [Hash functions and hash tables](https://youtu.be/KyUTuwz_b7Q?si=O_IVOEnCeF4t77bM)
 - [Hash function](https://alx-intranet.hbtn.io/rltoken/ZKpRI_FxOxAz80Onpfy0Ew)
 - [Hash table](https://alx-intranet.hbtn.io/rltoken/mxjKpEfAw3E5B8S3inPuHQ)
 - [All about hash tables](https://www.digitalocean.com/community/tutorials/hash-table-in-c-plus-plus)
