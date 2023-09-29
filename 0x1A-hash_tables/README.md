@@ -5,6 +5,8 @@
 - [What is a HashTable Data Structure - Introduction to Hash Tables , Part 0](https://alx-intranet.hbtn.io/rltoken/IQVfdxJlS6jhAgcuUoCseg)
 - [Hash function](https://alx-intranet.hbtn.io/rltoken/ZKpRI_FxOxAz80Onpfy0Ew)
 - [Hash table](https://alx-intranet.hbtn.io/rltoken/mxjKpEfAw3E5B8S3inPuHQ)
+- [All about hash tables](https://www.digitalocean.com/community/tutorials/hash-table-in-c-plus-plus)
+- [Why hash tables and not arrays](https://stackoverflow.com/questions/31930046/what-is-a-hash-table-and-how-do-you-make-it-in-c)
 
 ### `Python` Dictionaries
 `Python` dictionaries are implemented using hash tables. When you will be done with this project, you will be able to better understand the power and simplicity of `Python` dictionaries. So much is actually happening when you type `d = {'a': 1, 'b': 2}`, but everything looks so simple for the user. `Python` doesn’t use the exact same implementation than the one you will work on today though. If you are curious on how it works under the hood, here is a good blog post about [how dictionaries are implemented in Python 2.7](https://alx-intranet.hbtn.io/rltoken/LGV7VAHGAkef5wdIhqiY2A) (not mandatory).
