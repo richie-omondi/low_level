@@ -29,6 +29,7 @@
   - where `size` is the size of the array
   - Returns a pointer to the newly created hash table
   - If something went wrong, your function should return `NULL`
+  - A hash table is actually an array of structs.
 
 ```
     julien@ubuntu:~/0x1A. Hash tables$ cat 0-main.c 
