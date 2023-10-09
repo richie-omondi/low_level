@@ -26,7 +26,7 @@ functions written in the project.
 | `11-print_to_98.c`       | `void print_to_98(int n);`       |
 | `100-times_table.c`      | `void print_times_table(int n)`  |
 
-## Tasks :page_with_curl:
+## Code :page_with_curl:
 
 * **0. _putchar**
   * [0-putchar.c](./0-putchar.c): C program that prints `_putchar`, followed by a
