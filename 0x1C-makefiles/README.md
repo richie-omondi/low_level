@@ -1,4 +1,4 @@
-# 0x1C. C - Makefiles
+# Makefiles
 
 ## Table of contents
 Files | Description
