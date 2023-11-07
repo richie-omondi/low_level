@@ -2,6 +2,8 @@
 
 This repo contains C software written to implement different recursive functions. There is no use of a standard library.
 
+[Learn more here](https://youtu.be/IJDJ0kBx2LM?si=qMtfKxclVRXJu_g2)
+
 ## Helper File :raised_hands:
 
 * [_putchar.c](./_putchar.c): C function that writes a character to `stdout`.
