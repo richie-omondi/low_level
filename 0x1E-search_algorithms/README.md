@@ -46,3 +46,7 @@ You may have noticed that the basic binary search does not necessarily return th
 
 You might think that linear search is not as effective as any other algorithm, right? Well, we should see what happens with a singly linked list. (105-jump_list.c). `search_algos.h` has the linked lists used in `105-jump_list.c`
 Refer to this source code for the helper functions used in `105-main.c`: https://github.com/alx-tools/0x1D.c/tree/master/listint
+
+## Linear search in a skip list
+
+As you see now, looking for a specific value in a singly linked list always leads to browse every element of the list. A common way to optimize the time complexity of a search in a singly linked list is to modify the list itself by adding an “express lane” to browse it. A linked list with an express lane is called a [skip list](https://en.wikipedia.org/wiki/Skip_list). This change does not come without consequences. Indeed, the space complexity of a search in this kind of list will grow as `sizeof(skiplist_t) > sizeof(listint_t)` (see example below). (106-linear_skip.c)
