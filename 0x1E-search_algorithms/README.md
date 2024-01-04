@@ -42,3 +42,7 @@ The optimal value of `m` is √`n`, where `n` is the length of the list (or arra
 
 You may have noticed that the basic binary search does not necessarily return the index of the *first* value in the array (if this value appears more than once in the array). In this exercise, you’ll have to solve this problem. (104-advanced_binary.c)
 
+## Jump search in a singly-linked list
+
+You might think that linear search is not as effective as any other algorithm, right? Well, we should see what happens with a singly linked list. (105-jump_list.c). `search_algos.h` has the linked lists used in `105-jump_list.c`
+Refer to this source code for the helper functions used in `105-main.c`: https://github.com/alx-tools/0x1D.c/tree/master/listint
