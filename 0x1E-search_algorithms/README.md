@@ -38,3 +38,7 @@ For more info on why the step size is chosen as the square root of the length of
 ## What is the time complexity (average case) of a jump search in an array of size n, using step = sqrt(n)? O(sqrt(n)).
 The optimal value of `m` is √`n`, where `n` is the length of the list (or array) `L`. Because both steps of the algorithm look at, at most, √`n` items the algorithm runs in O(√n) time. This is better than a linear search, but worse than a binary search. The advantage over the latter is that a jump search only needs to jump backwards once, while a binary can jump backwards up to log `n` times. This can be important if jumping backwards takes significantly more time than jumping forward.
 
+## Advanced Binary Search
+
+You may have noticed that the basic binary search does not necessarily return the index of the *first* value in the array (if this value appears more than once in the array). In this exercise, you’ll have to solve this problem. (104-advanced_binary.c)
+
