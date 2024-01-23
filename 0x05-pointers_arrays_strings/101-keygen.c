@@ -4,7 +4,7 @@
 
 /**
  * main - Entry point
- * Description: Generates random passwords
+ * Description: Generates random passwords for the program 101-crackme
  * Return: zero
  */
 int main(void)
